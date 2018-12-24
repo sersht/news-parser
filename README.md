@@ -1,1 +1,2 @@
-# news-parser
+# News parser
+Script for parsing UKR.NET homepage, getting title, link and text.
