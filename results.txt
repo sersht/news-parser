@@ -1,266 +1,279 @@
 >>>>> Категория: Головне
-# Заголовок: Шатдаун, день пятый: стороны стоят на своем
-@ Ссылка: https://charter97.org/ru/news/2018/12/26/317899/
+# Заголовок: На Донбассе с полуночи наступил очередной "режим тишины"
+@ Ссылка: https://112.ua/glavnye-novosti/na-donbasse-s-polunochi-nastupilo-novoe-prazdnichnoe-peremirie-475166.html
 
-# Заголовок: Муженко назвав три армійські підсумки воєнного стану
-@ Ссылка: http://day.kyiv.ua/uk/news/261218-muzhenko-nazvav-try-armiyski-pidsumky-voyennogo-stanu
+# Заголовок: "Укрзалізниця" збільшила кількість "святкових" поїздів до 39
+@ Ссылка: http://day.kyiv.ua/uk/news/281218-ukrzaliznycya-zbilshyla-kilkist-svyatkovyh-poyizdiv-do-39
 
-# Заголовок: Протесты "желтых жилетов": во Франции подсчитали миллиардный ущерб
-@ Ссылка: https://www.segodnya.ua/world/europe/protesty-zheltyh-zhiletov-vo-francii-podschitali-milliardnyy-ushcherb-1201366.html
+# Заголовок: Святкувати Різдво за григоріанським календарем Україна зможе за однієї умови — Епіфаній
+@ Ссылка: https://hromadske.ua/posts/svyatkuvati-rizdvo-za-grigorianskim-kalendarem-ukrayina-zmozhe-za-odniyeyi-umovi-epifanij
+
 
 
 >>>>> Категория: Політика
-# Заголовок: СНБО принял дополнительные санкции в отношении РФ
-@ Ссылка: https://www.facenews.ua/news/2018/433439/
+# Заголовок: WP сообщила о получении Ле Пен денег от россиян, которые имеют влияние в Украине
+@ Ссылка: https://www.rbc.ua/rus/news/wp-soobshchila-poluchenii-le-pen-deneg-rossiyan-1546038038.html
 
-# Заголовок: Украинскому политзаключенному Владимиру Дудке грозит инсульт, – омбудсмен
-@ Ссылка: https://focus.ua/politics/416082-ukrainskomu-politzaklyuchennomu-vladimiru-dudke-grozit-insult--ombudsmen.html
+# Заголовок: Санкції ЄС проти Росії офіційно набули чинності
+@ Ссылка: https://nv.ua/ukr/world/geopolitics/sankciji-yes-proti-rosiji-oficiyno-nabuli-chinnosti-50000304.html
 
-# Заголовок: Адвокати захоплених українських військових готують касаційні скарги на їх арешт
-@ Ссылка: https://www.radiosvoboda.org/a/news-ukrainski-moryaky-aresht/29678075.html
+# Заголовок: Справа проти Авакова в Росії: міністр назвав умову, за якої дасть свідчення Генпрокуратурі РФ
+@ Ссылка: https://24tv.ua/sprava_proti_avakova_v_rosiyi_ministr_nazvav_umovu_za_yakoyi_dast_svidchennya_genprokuraturi_rf_n1088317
 
-# Заголовок: Кернес заявив, що підтримає Порошенка на виборах президента
-@ Ссылка: https://glavcom.ua/country/politics/kernes-zayaviv-shcho-pidtrimaje-poroshenka-na-viborah-prezidenta-556413.html
+# Заголовок: Сотрудники ФСБ России продолжают давить на захваченных украинских моряков – Полозов
+@ Ссылка: https://gordonua.com/news/crimea/sotrudniki-fsb-rossii-prodolzhayut-davit-na-zahvachennyh-ukrainskih-moryakov-polozov-617828.html
 
-# Заголовок: Верховной Раде предложили ужесточить контроль за финансированием партий
-@ Ссылка: https://strana.ua/news/178470-rade-predlozhili-zakonoproekt-uzhestochajushchij-kontrol-za-finansirovaniem-partij.html
+# Заголовок: Насиров заявил, что он легитимный глава ГФС
+@ Ссылка: https://www.facenews.ua/news/2018/433628/
+
 
 
 >>>>> Категория: Економіка
-# Заголовок: Підраховано кількість безробітних в Україні
-@ Ссылка: https://1news.com.ua/ukraine/pidrahovano-kilkist-bezrobitnih-v-ukrayini.html
+# Заголовок: Гройсман пообещал увеличить выплаты для 500 тысяч военных пенсионеров
+@ Ссылка: https://newsone.ua/news/politics/hrojsman-poobeshchal-uvelichit-vyplaty-dlja-500-tysjach-voennykh-pensionerov.html
 
-# Заголовок: МИД Украины просит принять меры из-за поставок итальянского оборудования в оккупированный Крым
-@ Ссылка: https://gordonua.com/news/crimea/mid-ukrainy-prosit-prinyat-mery-iz-za-postavok-italyanskogo-oborudovaniya-v-okkupirovannyy-krym-612301.html
+# Заголовок: Антимонопольный комитет оштрафовал "Huawei Украина"
+@ Ссылка: https://ukranews.com/news/604964-antimonopolnyi-komitet-oshtrafoval-huawei-ukraina
 
-# Заголовок: В ПФУ сказали, кому ждать перерасчет пенсии с 1 января
-@ Ссылка: https://hvylya.net/news/digest/v-pfu-skazali-komu-zhdat-pereraschet-pensii-s-1-yanvarya.html
+# Заголовок: В Украине за год средняя зарплата выросла на 22,49 %
+@ Ссылка: https://bykvu.com/bukvy/106801-v-ukraine-za-god-srednyaya-zarplata-vyrosla-na-22-49
 
-# Заголовок: В НБУ разрешили украинским банкам не страховать залоги
-@ Ссылка: https://strana.ua/news/178472-novosti-ukrainy-v-nbu-razreshili-ukrainskim-bankam-ne-strakhovat-zalohi.html
+# Заголовок: В Україну інтенсивно завозили дешеве імпортне м’ясо та сало
+@ Ссылка: https://1news.com.ua/ukraine/v-ukrayinu-intensivno-zavozili-desheve-importne-m-yaso-ta-salo.html
 
-# Заголовок: "Укрпошта" повідомила про затримки у доставці пошти (перелік областей)
-@ Ссылка: https://today.ua/ukrposhta-povidomila-pro-zatrimki-u-dostavtsi-poshti-perelik-oblastej/
+# Заголовок: Верховна Рада пропонує монетизувати всі пільги
+@ Ссылка: https://gazeta.ua/articles/economics/_verhovna-rada-proponuye-monetizuvati-vsi-pilgi/877435
+
 
 
 >>>>> Категория: Події
-# Заголовок: Боевик «ДНР» изнасиловал и убил 4-летнюю девочку
-@ Ссылка: https://ghall.com.ua/2018/12/26/boevik-dnr-iznasiloval-i-ubil-4-letnyuyu-devochku/
+# Заголовок: Боевики на Донбассе обстреляли свои позиции, чтобы обвинить в нарушении перемирия украинских военных – штаб операции Объединенных сил
+@ Ссылка: https://gordonua.com/news/war/boeviki-na-donbasse-obstrelyali-svoi-pozicii-chtoby-obvinit-v-narushenii-peremiriya-ukrainskih-voennyh-shtab-operacii-obedinennyh-sil-617829.html
 
-# Заголовок: На Прикарпатті чоловіка затримали за вбивство колишньої дружини
-@ Ссылка: http://magnolia-tv.com/news/11687-na-prikarpatti-cholovika-zatrimali-za-vbivstvo-kolishnoi-druzhini?prov=ukrnet
+# Заголовок: Боевики за день шесть раз открывали огонь, ранен боец - сводка ООС
+@ Ссылка: https://www.facenews.ua/news/2018/433640/
 
-# Заголовок: Справа Вишинського: засідання суду перенесли
-@ Ссылка: https://ru.slovoidilo.ua/2018/12/26/novost/pravo/sprava-vishinskogo-zasdannya-sudu-perenesli
+# Заголовок: ​ У столиці напали на відомого актора
+@ Ссылка: http://kriminal.tv/news/u_stolitsi_napali_na_vidomogo_aktora.html
 
-# Заголовок: Окупанти 5 разів порушували тишу, застосували заборонену зброю
-@ Ссылка: https://www.pravda.com.ua/news/2018/12/26/7202367/
+# Заголовок: На столичном Виноградаре мужчина убил знакомую, вынес тело на лестничную клетку и лег спать
+@ Ссылка: http://cripo.com.ua/news/crime/na-stolichnom-vinogradare-muzhchina-ubil-znakomuyu-vynes-telo-na-lestnichnuyu-kletku-i-leg-spat/
 
-# Заголовок: Трое потерявшихся лыжников найдены и спасены в Карпатах, - ГСЧС
-@ Ссылка: https://censor.net.ua/news/3104206/troe_poteryavshihsya_lyjnikov_nayideny_i_spaseny_v_karpatah_gschs
+# Заголовок: Итальянец попытался ради куража пройти из Украины в Беларусь через чернобыльскую зону. Не получилось
+@ Ссылка: https://strana.ua/news/178856-italjanets-reshil-popast-v-zonu-otchuzhdenija-nezakonnoho-cherez-hranitsu-belarusi-i-ukrainy-.html
+
 
 
 >>>>> Категория: Суспільство
-# Заголовок: Заступник керівника СБУ отримав від відомства квартиру за 6 мільйонів – ЗМІ
-@ Ссылка: https://www.pravda.com.ua/news/2018/12/26/7202366/
+# Заголовок: Неуплата алиментов: выяснилось, сколько человек не пустили за границу
+@ Ссылка: https://ru.slovoidilo.ua/2018/12/29/novost/obshhestvo/neuplata-alimentov-vyyasnilos-skolko-chelovek-ne-pustili-graniczu
 
-# Заголовок: 90-річна жінка пожертвувала бійцям на Донбасі величезну суму грошей
-@ Ссылка: https://gazeta.ua/articles/donbas/_90richna-zhinka-pozhertvuvala-bijcyam-na-donbasi-velicheznu-sumu-groshej/877040
+# Заголовок: Слободян: обмеження на в'їзд росіян в Україну залишаються
+@ Ссылка: https://glavcom.ua/news/slobodyan-obmezhennya-na-vjizd-rosiyan-v-ukrajinu-zalishayutsya-557143.html
 
-# Заголовок: Российскому рэперу запретили въезд в Украину
-@ Ссылка: https://ru.slovoidilo.ua/2018/12/26/novost/bezopasnost/rossijskomu-reperu-zapretili-vezd-ukrainu
+# Заголовок: В первые дни 2019 года в Украине усилятся морозы и будет идти снег - синоптик
+@ Ссылка: https://gordonua.com/news/society/v-pervye-dni-2019-goda-v-ukraine-usilyatsya-morozy-i-budet-idti-sneg-sinoptik-617723.html
 
-# Заголовок: Закон про перейменування УПЦ (МП) набрав чинності
-@ Ссылка: https://jurliga.ligazakon.net/ua/news/182950_zakon-pro-pereymenuvannya-upts-mp-nabrav-chinnost
+# Заголовок: Українці відкрили найбільшу у світі книжкову крамницю
+@ Ссылка: http://mydim.ua/news/world/?id=19981
 
-# Заголовок: На главной площади Украины продают "Майн кампф"
-@ Ссылка: https://jewishnews.com.ua/society/na-glavnoj-ploshhadi-ukrainyi-prodayut-majn-kampf
+# Заголовок: Підрахували точну кількість українських заробітчан
+@ Ссылка: https://gazeta.ua/articles/life/_pidrahuvali-tochnu-kilkist-ukrayinskih-zarobitchan/877442
+
 
 
 >>>>> Категория: Миколаївські новини
-# Заголовок: В МФК «Николаев» обратились к Порошенко, чтобы на газон на Центральном стадионе выделили 20 миллионов
-@ Ссылка: http://niksport.com.ua/football/MFCNikolaev/23475
+# Заголовок: Сенкевич пообещал реконструкцию спортшколы «Надежда» в 2018 году и не выполнил
+@ Ссылка: http://mayu-pravo.com/news/view/senkevich-poobeschal-rekonstrukciyu-sportshkoly-nadejda-v-2018-godu-i-ne-vypolnil-a34101/
 
-# Заголовок: На Миколаївщині пожежники врятували від загибелі чоловіка та жінку
-@ Ссылка: https://blin.mk.ua/news/93410
+# Заголовок: Николаев будет развивать общественный транспорт по-европейски
+@ Ссылка: http://izvestia.nikolaev.ua/news/317951120/
 
-# Заголовок: СБУ задержала жителя Николаева за продажу пластида
-@ Ссылка: https://www.rbc.ua/rus/news/sbu-zaderzhala-zhitelya-nikolaeva-prodazhu-1545831700.html
+# Заголовок: В Николаевской области в частном секторе произошел пожар: погиб хозяин помещения
+@ Ссылка: https://ura-inform.com/ru/neformat/2018/12/28/v-nikolaevskoj-oblasti-v-chastnom-sektore-proizoshel-pozhar-pogib-khozjain/
 
-# Заголовок: Из Николаевского аэропорта улетел первый чартер в Египет
-@ Ссылка: http://nikcenter.org/newsItem/47993
+# Заголовок: Самые резонансные ДТП в Николаеве и области 2018 года
+@ Ссылка: https://novosti-n.org/news/read/158390.html
 
-# Заголовок: У мерії відбулось засідання Ради оборони Миколаєва
-@ Ссылка: http://www.nikpravda.com.ua/u-meriyi-vidbulos-zasidannya-radi-oboroni-mikolayeva/
+# Заголовок: Миколаївські детективи викрили групу зловмисників на продажі наркотичних засобів
+@ Ссылка: https://pivdenukraine.com.ua/2018/12/28/mikola%d1%97vski-detektivi-vikrili-grupu-zlovmisnikiv-na-prodazhi-narkotichnix-zasobiv/
+
 
 
 >>>>> Категория: Технології
-# Заголовок: Утечки: Каким будет новый iPad 5 mini
-@ Ссылка: https://socportal.info/2018/12/26/utechki_kakim_budet_novyj_ipad_5_mini.html
+# Заголовок: Официально представлен доступный смартфон Huawei P Smart 2019
+@ Ссылка: https://ilenta.com/news/smartphone/news_23399.html
 
-# Заголовок: Відома мережа супермаркетів працює над системою для підслуховування за клієнтами
-@ Ссылка: https://24tv.ua/techno/vidoma_merezha_supermarketiv_pratsyuye_nad_sistemoyu_dlya_pidsluhovuvannya_za_kliyentami_n1086742
+# Заголовок: Французская художница зашифровывает Bitcoin в картинах
+@ Ссылка: https://bykvu.com/bukvy/106804-frantsuzskaya-khudozhnitsa-zashifrovyvaet-bitcoin-v-kartinakh
 
-# Заголовок: Ubisoft приготовила сюрприз для поклонников Rainbow Six Siege
-@ Ссылка: http://internetua.com/ubisoft-prigotovila-suarpriz-dlya-poklonnikov-rainbow-six-siege
+# Заголовок: Вертолет будущего: SB>1 Defiant от Sikorsky и Boeing
+@ Ссылка: http://kontrakty.ua/photo/7555
 
-# Заголовок: У новому смартфоні Oppo буде 10-кратний зум без втрат якості
-@ Ссылка: https://ua-format.com/2018/12/u-novomu-smartfoni-oppo-bude-10-kratnij-zum-bez-vtrat-yakosti/
+# Заголовок: Google запускає нові смартфони Pixel 3 Lite і Pixel 3 XL Lite в продаж
+@ Ссылка: https://pik.org.ua/google-zapuskaye-novi-smartfoni-pixel-3-lite-i-pixel-3-xl-lite-v-prodazh.html
 
-# Заголовок: За наличие iPhone у сотрудника китайские работодатели могут уволить
-@ Ссылка: http://www.bagnet.org/news/world/385279/za-nalichie-iphone-u-sotrudnika-kitayskie-rabotodateli-mogut-uvolit
+# Заголовок: Обнаружена серьезная уязвимость в браузере Microsoft Edge
+@ Ссылка: http://internetua.com/obnarujena-sereznaya-uyazvimost-v-brauzere-microsoft-edge
+
 
 
 >>>>> Категория: Наука
-# Заголовок: В Польше напечатали на 3D-принтере "носы людей на Марсе"
-@ Ссылка: https://ukranews.com/news/604500-v-polshe-napechataly-na-3d-pryntere-nosy-lyudey-na-marse
+# Заголовок: Ученые рассказали об опасности вегетарианства для планеты
+@ Ссылка: https://akcenty.com.ua/news/vegetarianstvo-mozhet-pogubit-chelovechestvo-planeta-v-opasnosti
 
-# Заголовок: У 2019 році в Китаї клонують кошеня
-@ Ссылка: https://socportal.info/2018/12/26/u_2019_rotsi_v_kitaji_klonujut_koshenja.html
+# Заголовок: Ілон Маск назвав перших колонізаторів Марсу
+@ Ссылка: https://znaj.ua/science/198703-ilon-mask-nazvav-pershih-kolonizatoriv-marsu-ce-stanetsya-zovsim-skoro
 
-# Заголовок: Илон Маск показал первый снимок звездолета
-@ Ссылка: https://bykvu.com/bukvy/106646-ilon-mask-pokazal-pervyj-snimok-zvezdoleta
+# Заголовок: На острове Борнео единственный орангутан-альбинос планеты вернулся в дикую природу (ВИДЕО)
+@ Ссылка: http://journalist.today/na-ostrovie-bornieo-iedinstviennyi-oranghutan-albinos-planiety-viernulsia-v-dikuiu-prirodu-vidieo/
 
-# Заголовок: Доисторические акулы охотились на летающих птерозавров
-@ Ссылка: http://journalist.today/doistorichieskiie-akuly-okhotilis-na-lietaiushchikh-ptierozavrov/
+# Заголовок: На частной ферме родился кенгуру-альбинос
+@ Ссылка: https://socportal.info/2018/12/28/na_chastnoj_ferme_rodilsja_kenguru_albinos.html
 
-# Заголовок: Ученые обнаружили загадочную аномалию в космосе
-@ Ссылка: https://newsyou.info/uchenye-obnaruzhili-zagadochnuyu-anomaliyu-v-kosmose
+# Заголовок: Ученые рассказали, как выглядел наш мир до Большого взрыва
+@ Ссылка: https://newsyou.info/uchenye-rasskazali-kak-vyglyadel-nash-mir-do-bolshogo-vzryva
+
 
 
 >>>>> Категория: Авто
-# Заголовок: Из-за непогоды  в Украине все еще ограничено движение по дорогам в трех областях
-@ Ссылка: https://strana.ua/news/178475-karta-v-kakikh-oblastjakh-ukrainy-iz-za-snehopada-zatrudneno-dvizhenie-na-dorohakh.html
+# Заголовок: Автолюбители показали «идеальный» Land Cruiser для зимы
+@ Ссылка: https://avtolubiteli.club/forum/avtofakt_x46/avtolubiteli_pokazali_idealnyi_land_cruiser_dlya_zimy_x3395
 
-# Заголовок: Стало известно, какие подержанные автомобили самые ненадежные
-@ Ссылка: http://hronika.info/avto/382985-stalo-izvestno-kakie-poderzhannye-avtomobili-samye-nenadezhnye.html
+# Заголовок: На аукционе продадут редкий Bugatti EB110 с 1000-километровым пробегом (ФОТО)
+@ Ссылка: https://avtodream.org/vse-novosti/avtomir/12444-na-aukcione-prodadut-redkiy-bugatti-eb110-s-1000-kilometrovym-probegom-foto.html
 
-# Заголовок: Власти Киева отложили демонтаж Шулявского моста на весну
-@ Ссылка: https://biz.censor.net.ua/news/3104101/vlasti_kieva_otlojili_demontaj_shulyavskogo_mosta_na_vesnu
+# Заголовок: «Євробляхер» розповів, скільки заплатив за розмитнення свого авто (Відео)
+@ Ссылка: http://uamotors.com.ua/news/17022
 
-# Заголовок: КрАЗ отправил свои вездеходы для спасения людей на заснеженных трассах
-@ Ссылка: https://avtovod.com.ua/news/772924436-kraz-otpravil-svoi-vezdehody-dlya-spaseniya-lyudey-na-zasnezhennyh-trassah.html
+# Заголовок: Hyundai расширит производство электрокаров
+@ Ссылка: http://hronika.info/avto/383725-hyundai-rasshirit-proizvodstvo-elektrokarov.html
 
-# Заголовок: Спасатели рассказали, как вести себя во время метели на дороге
-@ Ссылка: https://www.facenews.ua/news/2018/433432/
+# Заголовок: Представлен электрокар за $9000 с запасом хода 350 км
+@ Ссылка: https://autotheme.info/news/79312-predstavlen-elektrokar-za-9000-s-zapasom-hoda-350-km.html
+
 
 
 >>>>> Категория: Спорт
-# Заголовок: Брынзак назвал перспективных биатлонисток
-@ Ссылка: https://www.ua-football.com/sport/biathlon/1545853835-brynzak-nazval-perspektivnyh-biatlonistok.html?utm_source=ukrnet&utm_medium=cpc&utm_campaign=runewsukrnet
+# Заголовок: Володар "Золотого м'яча" відмовився продовжувати контракт з "Реалом"
+@ Ссылка: https://www.unn.com.ua/uk/news/1770536-volodar-zolotogo-myacha-vidmovivsya-prodovzhuvati-kontrakt-z-realom
 
-# Заголовок: «Динамо» Москва продлило победную серию в игре с «Йокеритом», «Автомобилист» дожал «Авангард»
-@ Ссылка: http://xsport.ua/hockey_s/news/dinamo-moskva-prodlilo-pobednuyu-seriyu-v-igre-s-yokeritom-avtomobilist-dozhal-avangard_1034405/
+# Заголовок: Сборная Украины обыграла Латвию на товарищеском турнире
+@ Ссылка: https://sport.ua/news/420947-sbornaya-ukrainy-obygrala-latviyu-na-tovarishcheskom-turnire
 
-# Заголовок: Роберт Уиттакер не одобряет концепцию резервных бойцов
-@ Ссылка: https://fightnews.info/robert-uittaker-ne-odobryaet-koncepciju-rezervnyh-bojcov
+# Заголовок: Журнал The Ring подвёл итоги 2018 года: Александр Усик - лучший боксёр, Анатолий Ломаченко - лучший тренер
+@ Ссылка: https://fightnews.info/zhurnal-the-ring-podvjol-itogi-2018-goda-aleksandr-usik-luchshij-boksjor-anatolij-lomachenko-luchshij-trener
 
-# Заголовок: Три шайбы «Днепра» в большинстве принесли херсонцам победу над «Белым Барсом»
-@ Ссылка: http://uhl.ua/news/tri-shayby-dnepra-v-bolshinstve-prinesli-khersontsam-pobedu-nad-belym-barsom_18102/
+# Заголовок: Два лідери "Олімпіка" пішли з команди
+@ Ссылка: http://footballtransfer.com.ua/ua/news-83027.html
 
-# Заголовок: Чилич снялся с турнира в Пуне
-@ Ссылка: https://btu.org.ua/news/mirovoy-tennis/17836-chilich-snjalsja-s-turnira-v-pune.html
+# Заголовок: Звезда Арсенала не сыграет против Ливерпуля
+@ Ссылка: https://sportarena.com/football/apl/ezil-poluchil-travmu-i-propustit-match-s-liverpulem/
+
 
 
 >>>>> Категория: Здоров'я
-# Заголовок: Дерматологи зупинили старіння шкіри за допомогою жирових клітин
-@ Ссылка: https://znaj.ua/zdorovya/198113-dermatologi-zupinili-starinnya-shkiri-za-dopomogoyu-zhirovih-klitin
+# Заголовок: Ученые разгадали тайну женской привлекательности
+@ Ссылка: https://politeka.net/zdorovye/852520-uchenye-razgadali-tajnu-zhenskoj-privlekatelnosti/
 
-# Заголовок: Як вижити у святковій метушні, – американський письменник Лео Бабаута
-@ Ссылка: https://style.nv.ua/ukr/blogs/jak-vizhiti-v-svjatkovij-metushni-amerikanskij-pismennik-leo-babauta-2515423.html
+# Заголовок: Медики назвали соки, которые помогают укрепить иммунитет
+@ Ссылка: http://hronika.info/medicina/383723-mediki-nazvali-soki-kotorye-pomogayut-ukrepit-immunitet.html
 
-# Заголовок: Медики назвали напитки, которые продлевают жизнь
-@ Ссылка: http://hronika.info/medicina/382991-mediki-nazvali-napitki-kotorye-prodlevayut-zhizn.html
+# Заголовок: Ученые нашли способ побороть старение кожи
+@ Ссылка: https://ukranews.com/news/604962-uchenye-nashli-sposob-poborot-starenie-kozhi
 
-# Заголовок: С начала 2018 года корью в Украине заболело более 52 тыс. человек - Минздрав
-@ Ссылка: https://gordonua.com/news/society/s-nachala-2018-goda-korju-v-ukraine-zabolelo-bolee-52-tys-chelovek-ndash-minzdrav-612404.html
+# Заголовок: Післяпологова депресія батька впливає на дітей
+@ Ссылка: http://nashamama.com/tato/38058pislyapologova-depresiya-batka-vplivae-na-ditei.html
 
-# Заголовок: Науковці назвали несподівану причину передчасної смерті
-@ Ссылка: https://24tv.ua/naukovtsi_nazvali_nespodivanu_prichinu_peredchasnoyi_smerti_n1086383
+# Заголовок: Ученые назвали лучшее средство от ожогов
+@ Ссылка: https://hyser.com.ua/community/398526-uchenye-nazvali-luchshee-sredstvo-ot-ozhogov
+
 
 
 >>>>> Категория: Шоу-бізнес
-# Заголовок: Металевий блиск та глибоке декольте: Елізабет Херлі приголомшила стильним вбранням
-@ Ссылка: https://24tv.ua/lifestyle/metaleviy_blisk_ta_gliboke_dekolte_elizabet_herli_prigolomshila_stilnim_vbrannyam_n1086636
+# Заголовок: Все в сборе: Мадонна опубликовала праздничный семейный снимок
+@ Ссылка: https://showdream.org/novosti/zvezdnaya-zhizn/9739-vse-v-sbore-madonna-opublikovala-prazdnichnyy-semeynyy-snimok.html
 
-# Заголовок: Стало известно, сколько Кайли Дженнер потратила на подарок для дочери
-@ Ссылка: http://hronika.info/kultura/382992-stalo-izvestno-skolko-kayli-dzhenner-potratila-na-podarok-dlya-docheri.html
+# Заголовок: Жена Венсана Касселя беременна
+@ Ссылка: https://glamur.org/novosti/7143-zhena-vensana-kasselya-beremenna.html
 
-# Заголовок: Спросите в селах: Бобул прокомментировал президентские амбиции Зеленского
-@ Ссылка: https://apostrophe.ua/news/149992
+# Заголовок: Сюжет нової серії культового серіалу «Чорне дзеркало» контролюватимуть глядачі
+@ Ссылка: https://zik.ua/news/2018/12/29/syuzhet_novoi_serii_kultovogo_serialu_chorne_dzerkalo_kontrolyuvatymut_1479335
 
-# Заголовок: В однакових піжамах: Дженніфер Лопес відсвяткувала Різдво з родиною (ФОТО)
-@ Ссылка: https://changeua.com/news/v-odnakovih-pizhamah-dzhennifer-lopes-vidsvyatkuvala-rizdvo-z-rodinoyu-foto/
+# Заголовок: Певица Эль Фаннинг в трейлере "За мечтой" (ВИДЕО)
+@ Ссылка: http://www.multikino.com/ru/news/?id=21441
 
-# Заголовок: Тина Кароль показала себя без макияжа
-@ Ссылка: https://socportal.info/2018/12/26/tina_karol_pokazala_sebja_bez_makijazha.html
+# Заголовок: Джессика Бил и Джастин Тимберлейк продали пентхаус в Нью-Йорке за 6 миллионов долларов
+@ Ссылка: https://newsyou.info/dzhessika-bil-i-dzhastin-timberlejk-prodali-pentxaus-v-nyu-jorke-za-6-millionov-dollarov
+
 
 
 >>>>> Категория: За кордоном
-# Заголовок: В Греции произошло еще одно землетрясение
-@ Ссылка: https://www.rbc.ua/rus/news/gretsii-proizoshlo-eshche-odno-zemletryasenie-1545840659.html
+# Заголовок: Вибух у Єгипті: кількість жертв зросла до чотирьох
+@ Ссылка: https://glavcom.ua/world/observe/vibuh-u-jegipti-kilkist-zhertv-zrosla-do-chotiroh-557146.html
 
-# Заголовок: Час-Тайм. Президент США Трамп розповів військовим, чому закрив уряд
-@ Ссылка: https://ukrainian.voanews.com/a/4717175.html
+# Заголовок: Поліція Нью-Йорка вперше застосує дрон на Новий рік
+@ Ссылка: https://www.ukrinform.ua/rubric-world/2610424-policia-nujorka-vperse-zastosue-dron-na-novij-rik.html
 
-# Заголовок: Парламент Израиля проголосовал за самороспуск
-@ Ссылка: https://www.facenews.ua/news/2018/433443/
+# Заголовок: Сорвавшиеся баржи разрушили порт Ванкувера
+@ Ссылка: http://news.siteua.org/Мир/644901/Сорвавшиеся_баржи_разрушили_порт_Ванкувера_ukr
 
-# Заголовок: Північна та Південна Кореї урочисто відновили залізничне сполучення
-@ Ссылка: https://ua.news/ua/pivnichna-ta-pivdenna-koreyi-urochysto-vidnovyly-zaliznychne-spoluchennya/
+# Заголовок: В Чехії невідомий захопив банк: всіх заручників врятовано
+@ Ссылка: https://gazeta.ua/articles/world-life/_v-cehiyi-nevidomij-zahopiv-bank-vsih-zaruchnikiv-vryatovano/877443
 
-# Заголовок: The New York Times: Трамп «откосил» от армии с помощью поддельного диагноза
-@ Ссылка: https://hvylya.net/news/digest/the-new-york-times-tramp-otkosil-ot-armii-s-pomoshhyu-poddelnogo-diagnoza.html
+# Заголовок: Во Вьетнаме арестованы шестеро граждан, съевших редкую обезьяну
+@ Ссылка: https://bykvu.com/bukvy/106806-vo-vetname-arestovany-shestero-grazhdan-s-evshikh-redkuyu-obezyanu
+
 
 
 >>>>> Категория: Курйози
-# Заголовок: Родители с «железными нервами» показали, как проходят их будни. ФОТО
-@ Ссылка: https://novosti-n.org/ukraine/read/217166.html
+# Заголовок: Забавные доказательства того, что кот нужен всем детям
+@ Ссылка: http://hronika.info/kurjozy/383621-zabavnye-dokazatelstva-togo-chto-kot-nuzhen-vsem-detyam.html
 
-# Заголовок: Уморительные фотки из серии «За секунду до»
-@ Ссылка: http://hronika.info/kurjozy/382957-umoritelnye-fotki-iz-serii-za-sekundu-do.html
+# Заголовок: Кашляющий кот стал героем уморительного мема. ФОТО
+@ Ссылка: https://novosti-n.org/ukraine/read/217401.html
 
-# Заголовок: Новая пародия на Тину Кароль озадачила поклонников
-@ Ссылка: https://newsyou.info/novaya-parodiya-na-tinu-karol-ozadachila-poklonnikov
+# Заголовок: У Норвегії злодій застряг у викраденому авто і викликав на допомогу поліцію
+@ Ссылка: https://svidok.online/u-norvegiyi-zlodij-zastrg-u-vy-kradenomu-avto-i-vy-kly-kav-na-dopomogu-politsiyu/
 
-# Заголовок: Легенду Манчестер Юнайтед обшукали при вході на Олд Траффорд – курйоз дня
-@ Ссылка: https://football24.ua/manchester_yunayted__haddersfild__runi_obshukali_pri_vhodi_na_old_trafford_n509544/
+# Заголовок: Устал: лис, забравшийся в кухню дома на окраине Лондона, заснул на микроволновке
+@ Ссылка: https://inshe.tv/kurezy/2018-12-28/399827/
 
-# Заголовок: Соцсети подняли на смех конфуз Путина в Белом доме
-@ Ссылка: https://akcenty.com.ua/politics/putin-okonfuzilsja-novoj-vyhodkoj-v-belom-dome-narodu-govn-reformy
+# Заголовок: Шутки природы: американский кот подружился с оленем (видео)
+@ Ссылка: https://etcetera.media/shutki-prirodyi-amerikanskiy-kot-podruzhilsya-s-olenem-video.html
+
 
 
 >>>>> Категория: Фоторепортаж
-# Заголовок: Майлі Сайрус та Ліам Хемсворт відгуляли своє весілля у будинку за $8 млн
-@ Ссылка: https://gazeta.ua/articles/celebrities/_majli-sajrus-ta-liam-hemsvort-vidgulyali-svoye-vesillya-u-budinku-za-8-mln/877020
+# Заголовок: Молодой британец таинственно исчез с борта круизного лайнера на Карибах - фото
+@ Ссылка: https://realist.online/news/20-letnij-britanec-tainstvenno-ischez-s-borta-kruiznogo-lajnera-na-karibah-foto
 
-# Заголовок: Жизнь мигрантов в лучших снимках года. Фото
-@ Ссылка: http://hronika.info/fotoreportazhi/382843-zhizn-migrantov-v-luchshih-snimkah-goda-foto.html
+# Заголовок: Красота цветов в объективе польской художницы. Фото
+@ Ссылка: http://hronika.info/fotoreportazhi/383572-krasota-cvetov-v-obektive-polskoy-hudozhnicy-foto.html
 
-# Заголовок: Новый тренд: архитекторы строят стеклянные дома (ФОТО)
-@ Ссылка: https://newsyou.info/novyj-trend-arxitektory-stroyat-steklyannye-doma-foto
+# Заголовок: Украинские военные совершили первые полеты на новом вертолете: фото и видео
+@ Ссылка: https://apostrophe.ua/news/150146
 
-# Заголовок: Главные зеленые красавицы мира засияли: хит-парад самых высоких новогодних елей
-@ Ссылка: https://ukranews.com/news/604498-glavnye-zelenye-krasavycy-myra-zasyyaly-khyt-parad-samykh-vysokykh-novogodnykh-eley
+# Заголовок: Україна-2018. Рік у фотографіях
+@ Ссылка: https://svidok.online/ukrayina-2018-rik-u-fotografih/
 
-# Заголовок: Этот отель работает уже более 1300 лет. ФОТО
-@ Ссылка: https://novosti-n.org/ukraine/read/217210.html
+# Заголовок: Извержение вулкана Этна на впечатляющих снимках, сделанных с МКС (ФОТО)
+@ Ссылка: https://newsyou.info/izverzhenie-vulkana-etna-na-vpechatlyayushhix-snimkax-sdelannyx-s-mks-foto
+
 
 
 >>>>> Категория: Відео
-# Заголовок: У Тернополі патрульний врятував маленьку дівчинку від ймовірного випадання з вікна (відео)
-@ Ссылка: https://zaxid.net/news/showNews.do?u_ternopoli_patrulniy_vryatuvav_malenku_divchinku_vid_ymovirnogo_vipadannya_z_vikna&objectId=1472682
+# Заголовок: В Киеве фонарный столб упал на автомобиль. Видео
+@ Ссылка: http://hronika.info/videonovosti/383729-v-kieve-fonarnyy-stolb-upal-na-avtomobil-video.html
 
-# Заголовок: ООС: Пехотинцы ВСУ провели учения (видео)
-@ Ссылка: https://ghall.com.ua/2018/12/26/oos-pehotintsy-vsu-proveli-ucheniya-video/
+# Заголовок: Ученые создали новый прибор для наблюдения за больными (ВИДЕО)
+@ Ссылка: https://newsyou.info/uchenye-sozdali-novyj-pribor-dlya-nablyudeniya-za-bolnymi-video
 
-# Заголовок: Ядерная ракета "в подарок стране на Новый год" (видео)
-@ Ссылка: https://www.facenews.ua/video/2018/310864/
+# Заголовок: Ресторани у Вашингтоні годують "безробітніх" урядових працівників. Відео
+@ Ссылка: https://ukrainian.voanews.com/a/dc-restaurants-feed-govt-workers-furlough/4720321.html
 
-# Заголовок: В Полтавской области из-за снегопада закрыли дороги и школы (ВИДЕО)
-@ Ссылка: https://newsyou.info/v-poltavskoj-oblasti-iz-za-snegopada-zakryli-dorogi-i-shkoly-video
+# Заголовок: Кличко на квадроцикле поздравил украинцев с Новым годом: сказочное видео
+@ Ссылка: https://www.segodnya.ua/kiev/kpower/klichko-na-kvadrocikle-pozdravil-ukraincev-s-novym-godom-skazochnoe-video-1202041.html
 
-# Заголовок: В оккупированном Крыму произошел обвал. Видео
-@ Ссылка: http://hronika.info/videonovosti/382989-v-okkupirovannom-krymu-proizoshel-obval-video.html
-
-
+# Заголовок: В Керчи поезд раздавил грузовик на железнодорожном переезде. Видео
+@ Ссылка: https://novosti-n.org/ukraine/read/217423.html
