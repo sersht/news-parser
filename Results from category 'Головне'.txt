@@ -1,0 +1,677 @@
+# Заголовок: Українські прикордонники продовжили посилені заходи контролю для іноземців
+@ Ссылка: //www.ukr.net/news/main/Ukrajinski_prikordonniki_prodovzhili_posileni_zahodi_kontrolju_dlja_inozemciv-37959811.html
+
+# Заголовок: Количество жертв взрыва автобуса в Египте увеличилось до трех человек
+@ Ссылка: //www.ukr.net/news/main/Kolichestvo_zhertv_vzryva_avtobusa_v_Egipte_uvelichilos_do_treh_chelovek-37959635.html
+
+# Заголовок: В Україні змінили правила вступу до ВНЗ
+@ Ссылка: //www.ukr.net/news/main/V_Ukrajini_zminili_pravila_vstupu_do_VNZ-37959765.html
+
+# Заголовок: У Чехії звільнили всіх захоплених у банку заручників
+@ Ссылка: //www.ukr.net/news/main/U_Chehiji_zvilnili_vsih_zahoplenih_u_banku_zaruchnikiv-37959160.html
+
+# Заголовок: У Нью-Йорку через вибух трансформаторного комплексу небо залило сяйвом (ФОТО)
+@ Ссылка: //www.ukr.net/news/main/U_Nju_Jorku_cherez_vibuh_transformatornogo_kompleksu_nebo_zalilo_sjajvom_FOTO-37956495.html
+
+# Заголовок: У ВМСУ назвали строки отримання потужних патрульних катерів з США
+@ Ссылка: //www.ukr.net/news/main/U_VMSU_nazvali_stroki_otrimannja_potuzhnih_patrulnih_kateriv_z_SShA-37959608.html
+
+# Заголовок: «У відповідь на дії Константинополя». РПЦ створила свої екзархати в Європі і Азії
+@ Ссылка: //www.ukr.net/news/main/U_vidpovid_na_diji_Konstantinopolja_RPC_stvorila_svoji_ekzarhati_v_Evropi_i_Aziji-37959595.html
+
+# Заголовок: Меркель обговорила з Путіним ситуацію у Керченській протоці
+@ Ссылка: //www.ukr.net/news/main/Merkel_obgovorila_z_Putinim_situaciju_u_Kerchenskij_protoci-37959525.html
+
+# Заголовок: В Раде предложили монетизировать все льготы в Украине
+@ Ссылка: //www.ukr.net/news/main/V_Rade_predlozhili_monetizirovat_vse_lgoty_v_Ukraine-37959541.html
+
+# Заголовок: Медведев подписал распоряжение о создании рабочей группы по интеграции России и Беларуси
+@ Ссылка: //www.ukr.net/news/main/Medvedev_podpisal_rasporjazhenie_o_sozdanii_rabochej_gruppy_po_integracii_Rossii_i_Belarusi-37959014.html
+
+# Заголовок: Єврокомісар розповів, що "Північний потік-2" вже будується
+@ Ссылка: //www.ukr.net/news/main/Evrokomisar_rozpoviv_wo_Pivnichnij_potik_2_vzhe_buduetsja-37958529.html
+
+# Заголовок: Brexit: Іспанія може прийняти "термінові заходи", якщо Великобританія вийде з ЄС без угоди
+@ Ссылка: //www.ukr.net/news/main/Brexit_Ispanija_mozhe_prijnjati_terminovi_zahodi_jakwo_Velikobritanija_vijde_z_ES_bez_ugodi-37959138.html
+
+# Заголовок: "Свідчення в обмін на Януковича": Аваков відреагував на запит РФ до ГПУ про правову допомогу
+@ Ссылка: https://nv.ua/ukr/ukraine/events/svidchennya-v-obmin-na-yanukovicha-avakov-vidreaguvav-na-zapit-rf-do-gpu-pro-pravovu-dopomogu-50000352.html
+
+# Заголовок: На севере Сирии назревает сирийско-турецкая война
+@ Ссылка: //www.ukr.net/news/main/Na_severe_Sirii_nazrevaet_sirijsko_tureckaja_vojna-37959011.html
+
+# Заголовок: У Парижі напередодні Нового року посилять заходи безпеки
+@ Ссылка: //www.ukr.net/news/main/U_Parizhi_naperedodni_Novogo_roku_posiljat_zahodi_bezpeki-37959006.html
+
+# Заголовок: Забор на админгранице с Крымом не повлияет на статус полуострова, - МИД
+@ Ссылка: //www.ukr.net/news/main/Zabor_na_admingranice_s_Krymom_ne_povlijaet_na_status_poluostrova_MID-37958988.html
+
+# Заголовок: В Мукачево створять хаб "Україна-ЄС": в "Укрзалізниці" повідомили подробиці проекту
+@ Ссылка: https://prm.ua/v-mukachevo-stvoryat-hab-ukrayina-yes-v-ukrzaliznitsi-povidomili-podrobitsi-proektu/
+
+# Заголовок: Росія збудувала паркан із колючим дротом між Кримом і Херсонщиною (світова преса)
+@ Ссылка: https://www.radiosvoboda.org/a/svitova-presa/29681833.html
+
+# Заголовок: Біля берегів Норвегії тоне судно з 14 членами екіпажу
+@ Ссылка: //www.ukr.net/news/main/Bilja_beregiv_Norvegiji_tone_sudno_z_14_chlenami_ekipazhu-37958283.html
+
+# Заголовок: Отямившись від цунамі, Індонезія здригнулася від землетрусу
+@ Ссылка: //www.ukr.net/news/main/Otjamivshis_vid_cunami_Indonezija_zdrignulasja_vid_zemletrusu-37958678.html
+
+# Заголовок: ЄС опублікував список санкцій проти Росії
+@ Ссылка: //www.ukr.net/news/main/ES_opublikuvav_spisok_sankcij_proti_Rosiji-37958560.html
+
+# Заголовок: Половина уряду Албанії пішла у відставку через студентські протести
+@ Ссылка: https://www.eurointegration.com.ua/news/2018/12/28/7091118/
+
+# Заголовок: Ультиматум Трампа: гроші на "стіну", або закрию мексиканський кордон
+@ Ссылка: //www.ukr.net/news/main/Ultimatum_Trampa_groshi_na_stinu_abo_zakriju_meksikanskij_kordon-37957690.html
+
+# Заголовок: Песков заявил об отсутствии статуса военнопленных у захваченных в Черном море украинских моряков
+@ Ссылка: //www.ukr.net/news/main/Peskov_zajavil_ob_otsutstvii_statusa_voennoplennyh_u_zahvachennyh_v_Chernom_more_ukrainskih_morjakov-37957616.html
+
+# Заголовок: Полторак анонсував нові проходи кораблів через Керченську протоку
+@ Ссылка: //www.ukr.net/news/main/Poltorak_anonsuvav_novi_prohodi_korabliv_cherez_Kerchensku_protoku-37957046.html
+
+# Заголовок: Обязательную маркировку товаров латиницей отложили
+@ Ссылка: //www.ukr.net/news/main/Objazatelnuju_markirovku_tovarov_latinicej_otlozhili-37956859.html
+
+# Заголовок: США прекратят оказывать помощь Сальвадору, Гватемале и Гондурасу из-за мигрантов
+@ Ссылка: //www.ukr.net/news/main/SShA_prekratjat_okazyvat_pomow_Salvadoru_Gvatemale_i_Gondurasu_iz_za_migrantov-37955577.html
+
+# Заголовок: Апелляционный суд отказался менять меру пресечения экс-главе ГФС Продану
+@ Ссылка: //www.ukr.net/news/main/Apelljacionnyj_sud_otkazalsja_menjat_meru_presechenija_jeks_glave_GFS_Prodanu-37956781.html
+
+# Заголовок: Президент Украины и премьер Молдовы открыли пункт пропуска в Одесской области
+@ Ссылка: //www.ukr.net/news/main/Prezident_Ukrainy_i_premer_Moldovy_otkryli_punkt_propuska_v_Odesskoj_oblasti-37954113.html
+
+# Заголовок: Митрополит Епифаний рассказал, когда могут перенести дату празднования Рождества
+@ Ссылка: //www.ukr.net/news/main/Mitropolit_Epifanij_rasskazal_kogda_mogut_perenesti_datu_prazdnovanija_Rozhdestva-37956172.html
+
+# Заголовок: Суд оставил под стражей экс-главу Апелляционного суда Крыма Чорнобука
+@ Ссылка: //www.ukr.net/news/main/Sud_ostavil_pod_strazhej_jeks_glavu_Apelljacionnogo_suda_Kryma_Chornobuka-37955756.html
+
+# Заголовок: Австрійська поліція шукає грабіжників, які напали на ченців у віденській церкві
+@ Ссылка: //www.ukr.net/news/main/Avstrijska_policija_shukae_grabizhnikiv_jaki_napali_na_chenciv_u_videnskij_cerkvi-37946832.html
+
+# Заголовок: Жертвами снігового шторму в США стали двоє людей
+@ Ссылка: //www.ukr.net/news/main/Zhertvami_snigovogo_shtormu_v_SShA_stali_dvoe_ljudej-37955557.html
+
+# Заголовок: "Москітний флот" чи фрегати: який флот будує Україна
+@ Ссылка: https://www.bbc.com/ukrainian/features-46692336
+
+# Заголовок: Мировой рекорд: американец Колин О Брэйди  пешком пересек Антарктиду
+@ Ссылка: //www.ukr.net/news/main/Mirovoj_rekord_amerikanec_Kolin_O_Brjejdi_peshkom_peresek_Antarktidu-37942181.html
+
+# Заголовок: Ротань – 10-й тренер в истории молодежной сборной Украины
+@ Ссылка: //www.ukr.net/news/main/Rotan_10_j_trener_v_istorii_molodezhnoj_sbornoj_Ukrainy-37954970.html
+
+# Заголовок: Три украинки удачно стартовали в квалификации первого турнира сезона
+@ Ссылка: //www.ukr.net/news/main/Tri_ukrainki_udachno_startovali_v_kvalifikacii_pervogo_turnira_sezona-37954840.html
+
+# Заголовок: НБУ впервые обнародовал годовой план инспекционных проверок банков
+@ Ссылка: https://bin.ua/news/finance/banking/229325-nbu-vpervye-obnarodoval-godovoj-plan.html
+
+# Заголовок: Новый "режим тишины" на Донбассе: В случае необходимости украинские военные будут применять оружие
+@ Ссылка: //www.ukr.net/news/main/Novyj_rezhim_tishiny_na_Donbasse_V_sluchae_neobhodimosti_ukrainskie_voennye_budut_primenjat_oruzhie-37953058.html
+
+# Заголовок: Головною подією 2018 року українці вважають Об’єднавчий собор – опитування
+@ Ссылка: //www.ukr.net/news/main/Golovnoju_podieju_2018_roku_ukrajinci_vvazhajut_Ob_ednavchij_sobor_opituvannja-37952891.html
+
+# Заголовок: Спецпрокурор Мюллер отримав докази про перебування екс-адвоката Трампа в Празі
+@ Ссылка: //www.ukr.net/news/main/Specprokuror_Mjuller_otrimav_dokazi_pro_perebuvannja_eks_advokata_Trampa_v_Prazi-37947179.html
+
+# Заголовок: В ДТП с автобусом и грузовиком в Японии пострадало не менее 17 человек (ВИДЕО)
+@ Ссылка: //www.ukr.net/news/main/V_DTP_s_avtobusom_i_gruzovikom_v_Japonii_postradalo_ne_menee_17_chelovek_VIDEO-37951471.html
+
+# Заголовок: Шестерых фигурантов ялтинского «дела Хизб ут-Тахрир» этапировали из России в Крым
+@ Ссылка: https://ru.krymr.com/a/news-dvoih-figurantov-dela-hizb-ut-tahrir-etapirova/29681179.html
+
+# Заголовок: Туреччина проводить масштабну операцію проти ІДІЛ
+@ Ссылка: //www.ukr.net/news/main/Turechchina_provodit_masshtabnu_operaciju_proti_IDIL-37951404.html
+
+# Заголовок: У США повідомили, скільки триватиме "шатдаун"
+@ Ссылка: //www.ukr.net/news/main/U_SShA_povidomili_skilki_trivatime_shatdaun-37951242.html
+
+# Заголовок: Негода в Україні: яка ситуація на дорогах
+@ Ссылка: //www.ukr.net/news/main/Negoda_v_Ukrajini_jaka_situacija_na_dorogah-37949753.html
+
+# Заголовок: ЦВК анонсувала старт президентської виборчої кампанії
+@ Ссылка: //www.ukr.net/news/main/CVK_anonsuvala_start_prezidentskoji_viborchoji_kampaniji-37950367.html
+
+# Заголовок: Прокуратура Японії зацікавилася зв'язками екс-глави Nissan Гона з впливовим саудівським бізнесменом
+@ Ссылка: https://biz.nv.ua/ukr/markets/prokuratura-yaponiji-zacikavilasya-zv-yazkami-eks-glavi-nissan-gona-z-vplivovim-saudivskim-biznesmenom-50000285.html
+
+# Заголовок: В Карпатах высота снежного покрова достигает одного метра
+@ Ссылка: https://www.rbc.ua/rus/news/karpatah-vysota-snezhnogo-pokrova-dostigaet-1545989582.html
+
+# Заголовок: Після отримання Томосу ПЦУ збереться на Синод
+@ Ссылка: https://uatv.ua/pislya-otrymannya-tomosu-ptsu-zberetsya-na-synod/
+
+# Заголовок: Невідомі спробували зламати Twitter-сторінку постпреда України в ООН
+@ Ссылка: //www.ukr.net/news/main/Nevidomi_sprobuvali_zlamati_Twitter_storinku_postpreda_Ukrajini_v_OON-37947127.html
+
+# Заголовок: Винищувачі НАТО перехопили три військові літаки РФ над Балтійським морем
+@ Ссылка: https://www.eurointegration.com.ua/news/2018/12/28/7091100/
+
+# Заголовок: В Україні з'являться електрозаправки Supercharger - Ілон Маск
+@ Ссылка: //www.ukr.net/news/main/V_Ukrajini_z_javljatsja_elektrozapravki_Supercharger_Ilon_Mask-37933964.html
+
+# Заголовок: Трамп більше не відповідатиме на запитання Мюллера - адвокат
+@ Ссылка: //www.ukr.net/news/main/Tramp_bilshe_ne_vidpovidatime_na_zapitannja_Mjullera_advokat-37945814.html
+
+# Заголовок: Первый этап отбора в Антикоррупционный суд прошли судьи Майдана
+@ Ссылка: //www.ukr.net/news/main/Pervyj_jetap_otbora_v_Antikorrupcionnyj_sud_proshli_sudi_Majdana-37948020.html
+
+# Заголовок: Парламент Грузії переїжджає в Тбілісі
+@ Ссылка: https://www.eurointegration.com.ua/news/2018/12/28/7091098/
+
+# Заголовок: Туристи, які приїжджають до Туреччини, платитимуть новий податок на безпеку
+@ Ссылка: //www.ukr.net/news/main/Turisti_jaki_prijizhdzhajut_do_Turechchini_platitimut_novij_podatok_na_bezpeku-37947460.html
+
+# Заголовок: Південна Корея заявляє про витік інформації стосовно майже 1 тис. перебіжчиків із КНДР
+@ Ссылка: //www.ukr.net/news/main/Pivdenna_Koreja_zajavljae_pro_vitik_informaciji_stosovno_majzhe_1_tis_perebizhchikiv_iz_KNDR-37946964.html
+
+# Заголовок: У США помер найстаріший ветеран Другої світової війни
+@ Ссылка: //www.ukr.net/news/main/U_SShA_pomer_najstarishij_veteran_Drugoji_svitovoji_vijni-37946718.html
+
+# Заголовок: Абсолютный Усик, чемпион Гвоздик и испытания Ломаченко
+@ Ссылка: //www.ukr.net/news/main/Absoljutnyj_Usik_chempion_Gvozdik_i_ispytanija_Lomachenko-37938860.html
+
+# Заголовок: Король Саудовской Аравии провел масштабные перестановки в правительстве
+@ Ссылка: //www.ukr.net/news/main/Korol_Saudovskoj_Aravii_provel_masshtabnye_perestanovki_v_pravitelstve-37946732.html
+
+# Заголовок: Помер останній відомий учасник повстання у Варшавському гетто
+@ Ссылка: http://www.istpravda.com.ua/short/2018/12/28/153484/
+
+# Заголовок: Розенко: Повышение пенсий затронет 2 миллиона пенсионеров
+@ Ссылка: https://112.ua/obshchestvo/rozenko-povyshenie-pensiy-zatronet-2-milliona-pensionerov-475140.html
+
+# Заголовок: В Швеции выходцев из Узбекистана и Киргизии обвинили в терроризме
+@ Ссылка: https://www.facenews.ua/news/2018/433545/
+
+# Заголовок: За розкопки в Криму: археологи потрапили під українські санкції
+@ Ссылка: //www.ukr.net/news/main/Za_rozkopki_v_Krimu_arheologi_potrapili_pid_ukrajinski_sankciji-37944182.html
+
+# Заголовок: Написанная три года назад украинская опера вошла в десятку лучших опер в мире
+@ Ссылка: //www.ukr.net/news/main/Napisannaja_tri_goda_nazad_ukrainskaja_opera_voshla_v_desjatku_luchshih_oper_v_mire-37945310.html
+
+# Заголовок: У восьми областях України перевищено епідпоріг захворюваності на грип
+@ Ссылка: //www.ukr.net/news/main/U_vosmi_oblastjah_Ukrajini_pereviweno_epidporig_zahvorjuvanosti_na_grip-37945059.html
+
+# Заголовок: У МЗС повідомили, що українці внаслідок нападу на церкву у Відні не постраждали
+@ Ссылка: //www.ukr.net/news/main/U_MZS_povidomili_wo_ukrajinci_vnaslidok_napadu_na_cerkvu_u_Vidni_ne_postrazhdali-37945203.html
+
+# Заголовок: Обмен санкциями между Украиной и Россией: экономическое давление или политический диалог?
+@ Ссылка: //www.ukr.net/news/main/Obmen_sankcijami_mezhdu_Ukrainoj_i_Rossiej_jekonomicheskoe_davlenie_ili_politicheskij_dialog-37939831.html
+
+# Заголовок: Виверження Етни: сотні людей на Сицилії змушені залишити помешкання
+@ Ссылка: //www.ukr.net/news/main/Viverzhennja_Etni_sotni_ljudej_na_Siciliji_zmusheni_zalishiti_pomeshkannja-37944733.html
+
+# Заголовок: У МОЗ заявили про рішення, як вийти з суперечок навколо Одеського медуніверситету
+@ Ссылка: //www.ukr.net/news/main/U_MOZ_zajavili_pro_rishennja_jak_vijti_z_superechok_navkolo_Odeskogo_meduniversitetu-37943163.html
+
+# Заголовок: Трамп сказав військовим у Іраку, що не планує виводити контингент США з цієї країни
+@ Ссылка: //www.ukr.net/news/main/Tramp_skazav_vijskovim_u_Iraku_wo_ne_planue_vivoditi_kontingent_SShA_z_cieji_krajini-37938727.html
+
+# Заголовок: В Греции у входа в храм взорвалась бомба
+@ Ссылка: //www.ukr.net/news/main/V_Grecii_u_vhoda_v_hram_vzorvalas_bomba-37944448.html
+
+# Заголовок: Кабмін розширив перелік заборонених російських товарів
+@ Ссылка: //www.ukr.net/news/main/Kabmin_rozshiriv_perelik_zaboronenih_rosijskih_tovariv-37944146.html
+
+# Заголовок: Міжнародні резерви України оновили 5-річний максимум після надходження коштів під гарантію СБ - НБУ
+@ Ссылка: https://ua.interfax.com.ua/news/economic/556004.html
+
+# Заголовок: "Захопив будівлю ДФС". У Кабміні поскаржились на повернення Насірова до свого робочого місця
+@ Ссылка: //www.ukr.net/news/main/Zahopiv_budivlju_DFS_U_Kabmini_poskarzhilis_na_povernennja_Nasirova_do_svogo_robochogo_miscja-37942132.html
+
+# Заголовок: Кабмін затвердив склад Нацагентства, яке забезпечуватиме якість вищої освіти
+@ Ссылка: https://tsn.ua/ukrayina/kabmin-zatverdiv-sklad-nacagentstva-yake-zabezpechuvatime-yakist-vischoyi-osviti-1272423.html
+
+# Заголовок: Катастрофа МН17. Уряд підтримав меморандум щодо фінансування розслідування справи
+@ Ссылка: //www.ukr.net/news/main/Katastrofa_MN17_Urjad_pidtrimav_memorandum_wodo_finansuvannja_rozsliduvannja_spravi-37939230.html
+
+# Заголовок: У Києві підвищують квартплату: скільки доведеться платити
+@ Ссылка: //www.ukr.net/news/main/U_Kievi_pidviwujut_kvartplatu_skilki_dovedetsja_platiti-37938984.html
+
+# Заголовок: Глава МЗС ФРН наполягає на проведенні реформи Ради Безпеки ООН
+@ Ссылка: //www.ukr.net/news/main/Glava_MZS_FRN_napoljagae_na_provedenni_reformi_Radi_Bezpeki_OON-37933294.html
+
+# Заголовок: Негода в Україні: відомо яка ситуація на дорогах державного значення
+@ Ссылка: //www.ukr.net/news/main/Negoda_v_Ukrajini_vidomo_jaka_situacija_na_dorogah_derzhavnogo_znachennja-37933319.html
+
+# Заголовок: Трамп: «США більше не будуть світовим поліцейським»
+@ Ссылка: //www.ukr.net/news/main/Tramp_SShA_bilshe_ne_budut_svitovim_policejskim-37940824.html
+
+# Заголовок: Смертельное цунами в Индонезии: снимки со спутника подтвердили причину трагедии
+@ Ссылка: //www.ukr.net/news/main/Smertelnoe_cunami_v_Indonezii_snimki_so_sputnika_podtverdili_prichinu_tragedii-37940087.html
+
+# Заголовок: Три украинских боксера вошли в двадцатку лучших по версии BoxingTalk
+@ Ссылка: //www.ukr.net/news/main/Tri_ukrainskih_boksera_voshli_v_dvadcatku_luchshih_po_versii_BoxingTalk-37934875.html
+
+# Заголовок: Україна розширила перелік офшорних зон
+@ Ссылка: https://hromadske.ua/posts/ukrayina-rozshirila-perelik-ofshornih-zon
+
+# Заголовок: Правительство расширило список офшорных зон
+@ Ссылка: //www.ukr.net/news/main/Pravitelstvo_rasshirilo_spisok_ofshornyh_zon-37939234.html
+
+# Заголовок: С 1 января 2019 года потребители смогут требовать проверки качества коммунальных услуг
+@ Ссылка: https://yaizakon.com.ua/s-1-yanvarya-2019-goda-potrebiteli-smogut-trebovat-proverki-kachestva-kommunalnyh-uslug/
+
+# Заголовок: В Україні набув чинності закон щодо перейменування УПЦ МП
+@ Ссылка: //www.ukr.net/news/main/V_Ukrajini_nabuv_chinnosti_zakon_wodo_perejmenuvannja_UPC_MP-37938797.html
+
+# Заголовок: «Укрзалізниця» призначила 38 додаткових поїздів на зимові свята
+@ Ссылка: https://www.radiosvoboda.org/a/news-ukrzaliznytsia-dodatkovi-poyizdy/29679404.html
+
+# Заголовок: Літак ВПС США здійснив розвідку поблизу Криму та Керченської протоки
+@ Ссылка: //www.ukr.net/news/main/Litak_VPS_SShA_zdijsniv_rozvidku_poblizu_Krimu_ta_Kerchenskoji_protoki-37937799.html
+
+# Заголовок: Трамп может запретить бизнесу США покупать технику Huawei и ZTE – Reuters
+@ Ссылка: https://zn.ua/world/tramp-mozhet-zapretit-biznesu-ssha-pokupat-tehniku-huawei-i-zte-reuters-304264_.html
+
+# Заголовок: Ізраїльські депутати підтримали розпуск парламенту, названо дату виборів
+@ Ссылка: //www.ukr.net/news/main/Izrajilski_deputati_pidtrimali_rozpusk_parlamentu_nazvano_datu_viboriv-37936533.html
+
+# Заголовок: Президент проведе велику закриту нараду з військовими – Бірюков
+@ Ссылка: //www.ukr.net/news/main/Prezident_provede_veliku_zakritu_naradu_z_vijskovimi_Birjukov-37935861.html
+
+# Заголовок: Подготовку Хизер Нойерт к работе в ООН начнут в 2019 году, - СМИ
+@ Ссылка: //www.ukr.net/news/main/Podgotovku_Hizer_Nojert_k_rabote_v_OON_nachnut_v_2019_godu_SMI-37931953.html
+
+# Заголовок: По "Укрпочте" ударила непогода: возможны задержки писем и посылок
+@ Ссылка: //www.ukr.net/news/main/Po_Ukrpochte_udarila_nepogoda_vozmozhny_zaderzhki_pisem_i_posylok-37935613.html
+
+# Заголовок: Туреччина стягує війська до Сирії і готова розпочати операцію проти тамтешніх курдів
+@ Ссылка: //www.ukr.net/news/main/Turechchina_stjague_vijska_do_Siriji_i_gotova_rozpochati_operaciju_proti_tamteshnih_kurdiv-37935177.html
+
+# Заголовок: П'ять перемог та дві проблеми: чого досягла Україна за 2018 рік на дипломатичному фронті
+@ Ссылка: https://www.eurointegration.com.ua/articles/2018/12/27/7091064/
+
+# Заголовок: Боевики сорвали разминирование в районе КПВВ "Марьинка"
+@ Ссылка: //www.ukr.net/news/main/Boeviki_sorvali_razminirovanie_v_rajone_KPVV_Marinka-37933045.html
+
+# Заголовок: Советник Порошенко заявил о взятии под контроль ВСУ почти всей «серой зоны» на Донбассе
+@ Ссылка: //www.ukr.net/news/main/Sovetnik_Poroshenko_zajavil_o_vzjatii_pod_kontrol_VSU_pochti_vsej_seroj_zony_na_Donbasse-37932255.html
+
+# Заголовок: Трамп и министр обороны Германии разошлись во мнениях насчет ИГИЛ
+@ Ссылка: //www.ukr.net/news/main/Tramp_i_ministr_oborony_Germanii_razoshlis_vo_mnenijah_naschet_IGIL-37932511.html
+
+# Заголовок: Перший в Тернопільській області храм УПЦ МП перейшов до Православної церкви України
+@ Ссылка: //www.ukr.net/news/main/Pershij_v_Ternopilskij_oblasti_hram_UPC_MP_perejshov_do_Pravoslavnoji_cerkvi_Ukrajini-37932347.html
+
+# Заголовок: В Україні знеструмлені понад 100 населених пунктів – ДСНС
+@ Ссылка: https://www.radiosvoboda.org/a/news-ponad-100-naselenyh-punktiv-znestrumleni-v-ukrayini/29678781.html
+
+# Заголовок: В Египте в ДТП попал на автобус, есть погибшие
+@ Ссылка: https://www.rbc.ua/rus/news/egipte-avarii-pritsep-upal-avtobus-lyudmi-1545876174.html
+
+# Заголовок: Обмеження для транспорту в Кіровоградській і Черкаській областях і повна заборона на в'їзд до Полтавської поки залишаються в силі
+@ Ссылка: //www.ukr.net/news/main/Obmezhennja_dlja_transportu_v_Kirovogradskij_i_Cherkaskij_oblastjah_i_povna_zaborona_na_v_jizd_do_Poltavskoji_poki_zalishajutsja_v_sili-37930073.html
+
+# Заголовок: За 30 днів воєнного стану в Україну не пустили більше 1,5 тисячі росіян
+@ Ссылка: https://www.pravda.com.ua/news/2018/12/26/7202370/
+
+# Заголовок: Крилаті ракети і реактивна зброя: РНБО схвалила оборонне замовлення
+@ Ссылка: //www.ukr.net/news/main/Krilati_raketi_i_reaktivna_zbroja_RNBO_shvalila_oboronne_zamovlennja-37930689.html
+
+# Заголовок: СНБО продлил запрет на въезд мужчин из России
+@ Ссылка: https://bykvu.com/bukvy/106650-snbo-prodlil-zapret-na-v-ezd-muzhchin-iz-rossii
+
+# Заголовок: Военное положение отменили, а угроза со стороны России осталась (видео)
+@ Ссылка: //www.ukr.net/news/main/Voennoe_polozhenie_otmenili_a_ugroza_so_storony_Rossii_ostalas_video-37930152.html
+
+# Заголовок: Північна і Південна Корея символічно об’єднали свої залізниці, зруйновані в часи війни
+@ Ссылка: //www.ukr.net/news/main/Pivnichna_i_Pivdenna_Koreja_simvolichno_ob_ednali_svoji_zaliznici_zrujnovani_v_chasi_vijni-37930330.html
+
+# Заголовок: В Україні подовжили обмеження щодо в’їзду росіян попри кінець воєнного стану
+@ Ссылка: //www.ukr.net/news/main/V_Ukrajini_podovzhili_obmezhennja_wodo_v_jizdu_rosijan_popri_kinec_voennogo_stanu-37930086.html
+
+# Заголовок: Межпарламентская ассамблея "Молдова-Грузия-Украина" приняла резолюцию против РФ
+@ Ссылка: //www.ukr.net/news/main/Mezhparlamentskaja_assambleja_Moldova_Gruzija_Ukraina_prinjala_rezoljuciju_protiv_RF-37930298.html
+
+# Заголовок: Уся «сіра» зона на Донбасі звільнена і взята під контроль ЗСУ – Бірюков
+@ Ссылка: //www.ukr.net/news/main/Usja_sira_zona_na_Donbasi_zvilnena_i_vzjata_pid_kontrol_ZSU_Birjukov-37928736.html
+
+# Заголовок: В аннексированной Керчи затонул корабль с дизельным топливом на борту
+@ Ссылка: //www.ukr.net/news/main/V_anneksirovannoj_Kerchi_zatonul_korabl_s_dizelnym_toplivom_na_bortu-37929950.html
+
+# Заголовок: Санкції Росії проти України: чому Кремль розширив список і які будуть наслідки
+@ Ссылка: //www.ukr.net/news/main/Sankciji_Rosiji_proti_Ukrajini_chomu_Kreml_rozshiriv_spisok_i_jaki_budut_naslidki-37929297.html
+
+# Заголовок: Трамп: «Шатдаун не закінчиться, поки не буде виділено $5,7 млрд на стіну з Мексикою»
+@ Ссылка: //www.ukr.net/news/main/Tramp_Shatdaun_ne_zakinchitsja_poki_ne_bude_vidileno_5_7_mlrd_na_stinu_z_Meksikoju-37925733.html
+
+# Заголовок: В МВД рассказали о работе правоохранительных органов после прекращения военного положения
+@ Ссылка: //www.ukr.net/news/main/V_MVD_rasskazali_o_rabote_pravoohranitelnyh_organov_posle_prekrawenija_voennogo_polozhenija-37929427.html
+
+# Заголовок: По решению крымского “суда” 20 военных моряков Украины остались под арестом
+@ Ссылка: //www.ukr.net/news/main/Po_resheniju_krymskogo_suda_20_voennyh_morjakov_Ukrainy_ostalis_pod_arestom-37929496.html
+
+# Заголовок: В Боснии и Герцеговине проходят массовые протесты против произвола правоохранительных органов
+@ Ссылка: https://economistua.com/v-bosnii-i-gertsegovine-prohodyat-massovye-protesty-protiv-proizvola-pravoohranitelnyh-organov/
+
+# Заголовок: В университете Пекина при взрыве погибли три студента
+@ Ссылка: //www.ukr.net/news/main/V_universitete_Pekina_pri_vzryve_pogibli_tri_studenta-37929428.html
+
+# Заголовок: Японія офіційно відновить полювання на китів, яке заборонено у всьому світі вже понад 30 років
+@ Ссылка: //www.ukr.net/news/main/Japonija_oficijno_vidnovit_poljuvannja_na_kitiv_jake_zaboroneno_u_vsomu_sviti_vzhe_ponad_30_rokiv-37929366.html
+
+# Заголовок: Пропагандисту Вишинському відмовили у відводі судді
+@ Ссылка: https://www.depo.ua/ukr/politics/propagandistu-vishinskomu-vidmovili-u-vidvodi-suddi-20181226891848
+
+# Заголовок: Генсек ОБСЄ заявив, що українські ЗМІ невірно розтлумачили його слова про помісну церкву
+@ Ссылка: //www.ukr.net/news/main/Gensek_OBSE_zajaviv_wo_ukrajinski_ZMI_nevirno_roztlumachili_jogo_slova_pro_pomisnu_cerkvu-37929036.html
+
+# Заголовок: Против "госадвокатов" украинских моряков откроют дисциплинарное производство, - Денисова
+@ Ссылка: //www.ukr.net/news/main/Protiv_gosadvokatov_ukrainskih_morjakov_otkrojut_disciplinarnoe_proizvodstvo_Denisova-37928418.html
+
+# Заголовок: Turkish Airlines запустить прямий рейс між Києвом і Бодрумом
+@ Ссылка: //www.ukr.net/news/main/Turkish_Airlines_zapustit_prjamij_rejs_mizh_Kievom_i_Bodrumom-37928406.html
+
+# Заголовок: Росія влаштувала військову провокацію біля кордонів ЄС: що відбулось
+@ Ссылка: //www.ukr.net/news/main/Rosija_vlashtuvala_vijskovu_provokaciju_bilja_kordoniv_ES_wo_vidbulos-37928390.html
+
+# Заголовок: СНБО планирует продлить запрет на въезд россиян в Украину
+@ Ссылка: //www.ukr.net/news/main/SNBO_planiruet_prodlit_zapret_na_vezd_rossijan_v_Ukrainu-37927814.html
+
+# Заголовок: МЗС закликало відреагувати на постачання в окупований Крим італійського обладнання
+@ Ссылка: https://uatv.ua/mzs-zaklykalo-vidreaguvaty-na-postachannya-v-okupovanyj-krym-italijskogo-obladnannya/
+
+# Заголовок: Китай снял запрет на импорт украинской птицы
+@ Ссылка: //www.ukr.net/news/main/Kitaj_snjal_zapret_na_import_ukrainskoj_pticy-37927683.html
+
+# Заголовок: В Германии столкнулись два рождественских конных экипажа с детьми
+@ Ссылка: //www.ukr.net/news/main/V_Germanii_stolknulis_dva_rozhdestvenskih_konnyh_jekipazha_s_detmi-37927344.html
+
+# Заголовок: Синоптики предупреждают о мокром снеге и дожде в Украине
+@ Ссылка: //www.ukr.net/news/main/Sinoptiki_preduprezhdajut_o_mokrom_snege_i_dozhde_v_Ukraine-37926997.html
+
+# Заголовок: США побудують дві військові бази в Іраку біля кордону з Сирією - ЗМІ
+@ Ссылка: //www.ukr.net/news/main/SShA_pobudujut_dvi_vijskovi_bazi_v_Iraku_bilja_kordonu_z_Sirieju_ZMI-37923000.html
+
+# Заголовок: ВВС Израиля вновь нанесли удары по Дамаску
+@ Ссылка: //www.ukr.net/news/main/VVS_Izrailja_vnov_nanesli_udary_po_Damasku-37919533.html
+
+# Заголовок: Вибух і пожежа. У США літак впав на житлові будинки, є загиблий
+@ Ссылка: //www.ukr.net/news/main/Vibuh_i_pozhezha_U_SShA_litak_vpav_na_zhitlovi_budinki_e_zagiblij-37917252.html
+
+# Заголовок: Очевидное-невероятное: оказывается, потенциально опасный «Литейно-механический завод» опасности не несет
+@ Ссылка: http://krlife.com.ua/news/ochevidnoe-neveroyatnoe-okazyvaetsya-potentsialno-opasnyi-liteino-mekhanicheskii-zavod-opasnost
+
+# Заголовок: Москва и Минск не смогли договориться по «налоговому маневру»
+@ Ссылка: //www.ukr.net/news/main/Moskva_i_Minsk_ne_smogli_dogovoritsja_po_nalogovomu_manevru-37920922.html
+
+# Заголовок: МЗС Німеччини виступило проти розміщення нових ядерних ракет у Європі
+@ Ссылка: //www.ukr.net/news/main/MZS_Nimechchini_vistupilo_proti_rozmiwennja_novih_jadernih_raket_u_Evropi-37921152.html
+
+# Заголовок: «Ісламська держава» взяла на себе відповідальність за напад на МЗС Лівії
+@ Ссылка: //www.ukr.net/news/main/Islamska_derzhava_vzjala_na_sebe_vidpovidalnist_za_napad_na_MZS_Liviji-37916841.html
+
+# Заголовок: Країни Балтії і Польща 4 роки блокують євроінтеграцію Сербії через її дружбу з РФ
+@ Ссылка: https://www.eurointegration.com.ua/news/2018/12/26/7091055/
+
+# Заголовок: Снігопади залишили без світла майже 500 населених пунктів України
+@ Ссылка: //www.ukr.net/news/main/Snigopadi_zalishili_bez_svitla_majzhe_500_naselenih_punktiv_Ukrajini-37918908.html
+
+# Заголовок: Викрадення автобуса в Китаї: поліція затримала злочинця
+@ Ссылка: //www.ukr.net/news/main/Vikradennja_avtobusa_v_Kitaji_policija_zatrimala_zlochincja-37917948.html
+
+# Заголовок: Папа Римський Франциск у різдвяному посланні згадав про Україну
+@ Ссылка: //www.ukr.net/news/main/Papa_Rimskij_Francisk_u_rizdvjanomu_poslanni_zgadav_pro_Ukrajinu-37912621.html
+
+# Заголовок: Вхурделило: Світла немає у 10 областях, в заметах - десятки авто
+@ Ссылка: https://www.depo.ua/ukr/life/vhurdelilo-svitla-nemaye-u-10-oblastyah-v-zametah-desyatki-avto-20181226891294
+
+# Заголовок: В храме Гааги уже 1400 часов непрерывно идет церковная служба
+@ Ссылка: https://112.ua/mir/v-hrame-gaagi-uzhe-1400-chasov-nepreryvno-idet-cerkovnaya-sluzhba-474863.html
+
+# Заголовок: Первый приход УПЦ МП в Хмельницкой области перешел в Православную церковь Украины
+@ Ссылка: https://censor.net.ua/news/3103994/pervyyi_prihod_upts_mp_v_hmelnitskoyi_oblasti_pereshel_v_pravoslavnuyu_tserkov_ukrainy
+
+# Заголовок: Боевики стянули 22 системы "Град" в Луганскую область - СЦКК
+@ Ссылка: //www.ukr.net/news/main/Boeviki_stjanuli_22_sistemy_Grad_v_Luganskuju_oblast_SCKK-37915020.html
+
+# Заголовок: У Конго знову аварія Ан-26: майже 40 постраждалих
+@ Ссылка: //www.ukr.net/news/main/U_Kongo_znovu_avarija_An_26_majzhe_40_postrazhdalih-37914764.html
+
+# Заголовок: В Єревані протестували з вимогою вивести російську військову базу з Вірменії
+@ Ссылка: //www.ukr.net/news/main/V_Erevani_protestuvali_z_vimogoju_vivesti_rosijsku_vijskovu_bazu_z_Virmeniji-37914454.html
+
+# Заголовок: Российский суд оставил под стражей пятерых пленных украинских моряков
+@ Ссылка: //www.ukr.net/news/main/Rossijskij_sud_ostavil_pod_strazhej_pjateryh_plennyh_ukrainskih_morjakov-37911493.html
+
+# Заголовок: Негода в Україні: рух транспорту обмежили в Кіровоградській області
+@ Ссылка: https://nv.ua/ukr/ukraine/events/nehoda-v-ukrajini-rukh-transportu-obmezhili-v-kirovohradskij-oblasti-2515266.html
+
+# Заголовок: Крушение Boeing в Индонезии: следствие назвало причину
+@ Ссылка: //www.ukr.net/news/main/Krushenie_Boeing_v_Indonezii_sledstvie_nazvalo_prichinu-37913780.html
+
+# Заголовок: Снег и метели в Украине: на каких дорогах затруднено движение
+@ Ссылка: //www.ukr.net/news/main/Sneg_i_meteli_v_Ukraine_na_kakih_dorogah_zatrudneno_dvizhenie-37913378.html
+
+# Заголовок: Возле границ Латвии зафиксировали разведывательный самолет РФ
+@ Ссылка: //www.ukr.net/news/main/Vozle_granic_Latvii_zafiksirovali_razvedyvatelnyj_samolet_RF-37913046.html
+
+# Заголовок: Трамп заявив, що Саудівська Аравія готова відновити Сирію замість США
+@ Ссылка: //www.ukr.net/news/main/Tramp_zajaviv_wo_Saudivska_Aravija_gotova_vidnoviti_Siriju_zamist_SShA-37906026.html
+
+# Заголовок: 128 населенных пунктов обесточены из-за ухудшения погоды, - ГСЧС
+@ Ссылка: //www.ukr.net/news/main/128_naselennyh_punktov_obestocheny_iz_za_uhudshenija_pogody_GSChS-37909499.html
+
+# Заголовок: "Взяли в заложники представителей авиакомпании": в Борисполе 170 пассажиров не могут улететь в Египет
+@ Ссылка: //www.ukr.net/news/main/Vzjali_v_zalozhniki_predstavitelej_aviakompanii_v_Borispole_170_passazhirov_ne_mogut_uletet_v_Egipet-37910680.html
+
+# Заголовок: Як у світі святкують Різдво. Фото
+@ Ссылка: https://www.bbc.com/ukrainian/features-46679829
+
+# Заголовок: Сьогодні святкують Різдво Христове за григоріанським календарем
+@ Ссылка: //www.ukr.net/news/main/Sogodni_svjatkujut_Rizdvo_Hristove_za_grigorianskim_kalendarem-37907149.html
+
+# Заголовок: В Мексике разбился вертолет с губернатором на борту
+@ Ссылка: //www.ukr.net/news/main/V_Meksike_razbilsja_vertolet_s_gubernatorom_na_bortu-37908197.html
+
+# Заголовок: Через атаку в урядовому кварталі Кабула загинуло 43 людини
+@ Ссылка: //www.ukr.net/news/main/Cherez_ataku_v_urjadovomu_kvartali_Kabula_zaginulo_43_ljudini-37906738.html
+
+# Заголовок: Троє українських воїнів отримали поранення на Донбасі
+@ Ссылка: //www.ukr.net/news/main/Troe_ukrajinskih_vojiniv_otrimali_poranennja_na_Donbasi-37906539.html
+
+# Заголовок: Суд відпустив колишнього топ-менеджера Nissan під заставу
+@ Ссылка: //www.ukr.net/news/main/Sud_vidpustiv_kolishnogo_top_menedzhera_Nissan_pid_zastavu-37907917.html
+
+# Заголовок: В ОБСЄ озвучили тривожний прогноз щодо війни з РФ
+@ Ссылка: //www.ukr.net/news/main/V_OBSE_ozvuchili_trivozhnij_prognoz_wodo_vijni_z_RF-37905818.html
+
+# Заголовок: У ДСНС попередили про небезпеку лавин у Карпатах
+@ Ссылка: https://www.pravda.com.ua/news/2018/12/25/7202235/
+
+# Заголовок: Суд в РФ відмовив у достроковому звільненні фігуранту "справи Хізб ут-Тахрір"
+@ Ссылка: //www.ukr.net/news/main/Sud_v_RF_vidmoviv_u_dostrokovomu_zvilnenni_figurantu_spravi_Hizb_ut_Tahrir-37906018.html
+
+# Заголовок: Багдад може ввести війська до Сирії
+@ Ссылка: //www.ukr.net/news/main/Bagdad_mozhe_vvesti_vijska_do_Siriji-37906011.html
+
+# Заголовок: Вбивство Хашоггі: Туреччина наполягає на залученні ООН до розслідування
+@ Ссылка: https://www.pravda.com.ua/news/2018/12/25/7202233/
+
+# Заголовок: У США продовжили термін утримання в ізоляторі скандальної росіянці Бутіній
+@ Ссылка: https://tsn.ua/svit/u-ssha-prodovzhili-termin-utrimannya-v-izolyatori-skandalnoyi-rosiyanci-butiniy-1271007.html
+
+# Заголовок: Суд в США обязал КНДР выплатить полмиллиарда долларов за смерть студента
+@ Ссылка: https://www.segodnya.ua/world/usa/sud-v-ssha-obyazal-kndr-vyplatit-polmilliarda-dollarov-za-smert-studenta-1200902.html
+
+# Заголовок: Американський суд зобов'язав КНДР виплатити 501 мільйон доларів за смерть студента из США
+@ Ссылка: http://ipress.ua/news/amerykanskyy_sud_zobovyazav_kndr_vyplatyty_501_milyon_dolariv_za_smert_studenta_yz_ssha_276172.html
+
+# Заголовок: Православна церква Чорногорії піде шляхом України
+@ Ссылка: https://zik.ua/news/2018/12/24/pravoslavna_tserkva_chornogorii_pide_shlyahom_ukrainy_1476527
+
+# Заголовок: ФФУ презентовала календарь сборной Украины на 2019 год
+@ Ссылка: https://www.ua-football.com/ukrainian/national/1545678006-ffu-prezentovala-kalendar-sbornoy-ukrainy-na-2019-god.html?utm_source=ukrnet&utm_medium=cpc&utm_campaign=runewsukrnet
+
+# Заголовок: Протестантские организации отпраздновали на Софийской площади Киева Рождество Христово
+@ Ссылка: https://censor.net.ua/news/3103904/protestantskie_organizatsii_otprazdnovali_na_sofiyiskoyi_ploschadi_kieva_rojdestvo_hristovo
+
+# Заголовок: З початку доби на Донбасі бойовики здійснили 11 обстрілів, один військовий поранений
+@ Ссылка: https://hromadske.ua/posts/z-pochatku-dobi-na-donbasi-bojoviki-zdijsnili-11-obstriliv-odin-vijskovij-poranenij
+
+# Заголовок: У Кабулі бойовики захопили урядову будівлю та взяли заручників
+@ Ссылка: https://nv.ua/ukr/world/countries/u-kabuli-bojoviki-zakhopili-urjadovu-budivlju-i-vzjali-zaruchnikiv-2515162.html
+
+# Заголовок: Двоє моряків з буксира "Яни Капу" відмовилися від дачі свідчень - адвокат
+@ Ссылка: //www.ukr.net/news/main/Dvoe_morjakiv_z_buksira_Jani_Kapu_vidmovilisja_vid_dachi_svidchen_advokat-37902694.html
+
+# Заголовок: Туреччина і США домовились координувати вихід американських військ із Сирії
+@ Ссылка: //www.ukr.net/news/main/Turechchina_i_SShA_domovilis_koordinuvati_vihid_amerikanskih_vijsk_iz_Siriji-37902806.html
+
+# Заголовок: У штаті Огайо 92-річна жінка не впоралася з кермуванням і врізалася в храм
+@ Ссылка: //www.ukr.net/news/main/U_shtati_Ogajo_92_richna_zhinka_ne_vporalasja_z_kermuvannjam_i_vrizalasja_v_hram-37902605.html
+
+# Заголовок: Новий глава Пентагону почне працювати з 1 січня
+@ Ссылка: //www.ukr.net/news/main/Novij_glava_Pentagonu_pochne_pracjuvati_z_1_sichnja-37902491.html
+
+# Заголовок: Стрельба в Брюсселе: Вооруженный человек совершил нападение на ресторан
+@ Ссылка: //www.ukr.net/news/main/Strelba_v_Brjussele_Vooruzhennyj_chelovek_sovershil_napadenie_na_restoran-37901921.html
+
+# Заголовок: З нового року Україна вводить електронні візи для іноземців
+@ Ссылка: https://today.ua/z-novogo-roku-ukrayina-vvodyt-elektronni-vizy-dlya-inozemtsiv/
+
+# Заголовок: Екс-прем'єра Пакистану засудили до семи років ув'язнення
+@ Ссылка: http://www.dw.com/uk/екс-прем-єра-пакистану-засудили-до-семи-років-ув-язнення/a-46853146?maca=ukr-rss-ukrnet-ukr-all-3816-xml
+
+# Заголовок: Суд в Крыму рассмотрит жалобы на арест еще пяти захваченных украинских военных
+@ Ссылка: https://ru.krymr.com/a/news-sud-v-krymu-rassmotrit-zhaloby-na-arest-eshe-pyati-zahvachennyh-ukrainskih-voennyh/29673698.html
+
+# Заголовок: Утром боевики 7 раз обстреливали позиции ВСУ на Донбассе, обошлось без потерь, - Минобороны
+@ Ссылка: //www.ukr.net/news/main/Utrom_boeviki_7_raz_obstrelivali_pozicii_VSU_na_Donbasse_oboshlos_bez_poter_Minoborony-37899872.html
+
+# Заголовок: На Тернопільщині в полі застряг пасажирський потяг
+@ Ссылка: //www.ukr.net/news/main/Na_Ternopilwini_v_poli_zastrjag_pasazhirskij_potjag-37896852.html
+
+# Заголовок: На шоссе в Индии столкнулись 50 автомобилей, восемь человек погибли
+@ Ссылка: //www.ukr.net/news/main/Na_shosse_v_Indii_stolknulis_50_avtomobilej_vosem_chelovek_pogibli-37898762.html
+
+# Заголовок: Вбивство Хашоггі: Туреччина планує підняти розслідування до міжнародного рівня
+@ Ссылка: https://tsn.ua/groshi/vbivstvo-hashoggi-turechchina-planuye-pidnyati-rozsliduvannya-do-mizhnarodnogo-rivnya-1270662.html
+
+# Заголовок: Україна отримала перші французькі гвинтокрили
+@ Ссылка: https://2plus2.ua/speckor/novyny/ukraina-otrimala-pershi-francuzki-gvintokrili
+
+# Заголовок: Держдеп США попередив про небезпеку терактів у Барселоні на свята
+@ Ссылка: //www.ukr.net/news/main/Derzhdep_SShA_poperediv_pro_nebezpeku_teraktiv_u_Barseloni_na_svjata-37898684.html
+
+# Заголовок: Лікарі повідомили про стан постраждалих від вибуху на Різдвяному ярмарку у Львові
+@ Ссылка: https://zik.ua/news/2018/12/24/likari_povidomyly_pro_stan_postrazhdalyh_vid_vybuhu_na_rizdvyanomu_yarmarku_u_1476275
+
+# Заголовок: Волкер надеется, что Россия освободит захваченных украинских моряков до Рождества
+@ Ссылка: //www.ukr.net/news/main/Volker_nadeetsja_chto_Rossija_osvobodit_zahvachennyh_ukrainskih_morjakov_do_Rozhdestva-37897486.html
+
+# Заголовок: Постраждалі від вибуху на різдвяному ярмарку у Львові перебувають у стабільно важкому стані
+@ Ссылка: //www.ukr.net/news/main/Postrazhdali_vid_vibuhu_na_rizdvjanomu_jarmarku_u_Lvovi_perebuvajut_u_stabilno_vazhkomu_stani-37895886.html
+
+# Заголовок: 85-летний император Японии объявил о решении покинуть трон
+@ Ссылка: //www.ukr.net/news/main/85_letnij_imperator_Japonii_objavil_o_reshenii_pokinut_tron-37897610.html
+
+# Заголовок: Местные выборы в теробщинах: где была самая высокая явка
+@ Ссылка: //www.ukr.net/news/main/Mestnye_vybory_v_terobwinah_gde_byla_samaja_vysokaja_javka-37896477.html
+
+# Заголовок: При подрыве мины в Афганистане погибли семь мирных жителей
+@ Ссылка: https://gordonua.com/news/worldnews/pri-podryve-miny-v-afganistane-pogibli-sem-mirnyh-zhiteley-605872.html
+
+# Заголовок: У Тибеті стався потужний землетрус
+@ Ссылка: https://tsn.ua/svit/u-tibeti-stavsya-potuzhniy-zemletrus-1270434.html
+
+# Заголовок: Президента Польши просят не отзывать посла Пекло из Украины
+@ Ссылка: https://censor.net.ua/news/3103828/prezidenta_polshi_prosyat_ne_otzyvat_posla_peklo_iz_ukrainy
+
+# Заголовок: В работе аэропорта Бирмингема произошел сбой
+@ Ссылка: //www.ukr.net/news/main/V_rabote_ajeroporta_Birmingema_proizoshel_sboj-37894525.html
+
+# Заголовок: У Білому домі виключили ймовірність того, що Трамп передумає виводити війська США з Сирії
+@ Ссылка: https://www.unn.com.ua/uk/news/1769586-u-bilomu-domi-viklyuchili-ymovirnist-togo-scho-tramp-peredumaye-vivoditi-viyska-ssha-z-siriyi
+
+# Заголовок: У Болгарії поліція перешкодила проукраїнській акції проти агресії РФ на Азові
+@ Ссылка: //www.ukr.net/news/main/U_Bolgariji_policija_pereshkodila_proukrajinskij_akciji_proti_agresiji_RF_na_Azovi-37893804.html
+
+# Заголовок: У Чернівцях старообрядники вийшли з підпорядкування Москви
+@ Ссылка: https://www.pravda.com.ua/news/2018/12/23/7202132/
+
+# Заголовок: SpaceX запустила першу космічну місію США з нацбезпеки
+@ Ссылка: //www.ukr.net/news/main/SpaceX_zapustila_pershu_kosmichnu_misiju_SShA_z_nacbezpeki-37892712.html
+
+# Заголовок: Влада Чорногорії домагатиметься автокефалії для своєї православної церкви
+@ Ссылка: //www.ukr.net/news/main/Vlada_Chornogoriji_domagatimetsja_avtokefaliji_dlja_svoeji_pravoslavnoji_cerkvi-37891474.html
+
+# Заголовок: Прикордонники розповіли, коли чекати зменшення черг на західному кордоні
+@ Ссылка: //www.ukr.net/news/main/Prikordonniki_rozpovili_koli_chekati_zmenshennja_cherg_na_zahidnomu_kordoni-37893226.html
+
+# Заголовок: На Кубі затвердили проект нової конституції з обмеженнями для президента
+@ Ссылка: http://www.golos.com.ua/news/88416
+
+# Заголовок: Нова «кримська» резолюція ООН визнає Балуха, Сенцова і Куку політв’язнями
+@ Ссылка: //www.ukr.net/news/main/Nova_krimska_rezoljucija_OON_viznae_Baluha_Sencova_i_Kuku_politv_jaznjami-37892767.html
+
+# Заголовок: Порошенко подписал закон об изменениях в Бюджетный кодекс
+@ Ссылка: //www.ukr.net/news/main/Poroshenko_podpisal_zakon_ob_izmenenijah_v_Bjudzhetnyj_kodeks-37892752.html
+
+# Заголовок: Сенат Італії схвалив погоджений з Брюсселем проект бюджету
+@ Ссылка: https://www.eurointegration.com.ua/news/2018/12/23/7091018/
+
+# Заголовок: Порошенко підписав закон, що надає статус учасників бойових дій воїнам ОУН та УПА
+@ Ссылка: //www.ukr.net/news/main/Poroshenko_pidpisav_zakon_wo_nadae_status_uchasnikiv_bojovih_dij_vojinam_OUN_ta_UPA-37891088.html
+
+# Заголовок: Берінчик здобув титул WBO International
+@ Ссылка: //www.ukr.net/news/main/Berinchik_zdobuv_titul_WBO_International-37889084.html
+
+# Заголовок: Суд відновив на посаді ректора Катерину Амосову
+@ Ссылка: //www.ukr.net/news/main/Sud_vidnoviv_na_posadi_rektora_Katerinu_Amosovu-37888392.html
+
+# Заголовок: Пьяный мужчина устроил стрельбу в Харькове: фото, видео
+@ Ссылка: //www.ukr.net/news/main/Pjanyj_muzhchina_ustroil_strelbu_v_Harkove_foto_video-37887467.html
+
+# Заголовок: На Львівщині парафія УПЦ Московського патріархату перейшла до нової помісної церкви
+@ Ссылка: //www.ukr.net/news/main/Na_Lvivwini_parafija_UPC_Moskovskogo_patriarhatu_perejshla_do_novoji_pomisnoji_cerkvi-37885928.html
+
+# Заголовок: Названы главные неудачники года из числа миллиардеров
+@ Ссылка: //www.ukr.net/news/main/Bloomberg_bogatejshie_ljudi_mira_poterjali_v_2018_godu_511_mlrd_dollarov-37881333.html
+
+# Заголовок: На непостоянной основе за границей работает от 7 до 9 млн граждан Украины
+@ Ссылка: http://www.fixygen.ua/news/20181222/na-nepostoyannoj.html
+
+# Заголовок: Справа про "продаж наліво" державних суден дійшла до суду
+@ Ссылка: //www.ukr.net/news/main/Sprava_pro_prodazh_nalivo_derzhavnih_suden_dijshla_do_sudu-37879306.html
+
+# Заголовок: США нададуть Україні 10 млн доларів на розвиток військового флоту
+@ Ссылка: //www.ukr.net/news/main/SShA_nadadut_Ukrajini_10_mln_dolariv_na_rozvitok_vijskovogo_flotu-37877515.html
+
+# Заголовок: З точки зору розвідки, Китай загрожує США більше, ніж Росія - директор Національного центру контррозвідки та безпеки
+@ Ссылка: https://ukrainian.voanews.com/a/kytai-rosiya-kontrrozvidka/4711526.html
+
+# Заголовок: Украина возвращает из США картину, вывезенную во время Второй мировой войны, – посольство
+@ Ссылка: //www.ukr.net/news/main/Ukraina_vozvrawaet_iz_SShA_kartinu_vyvezennuju_vo_vremja_Vtoroj_mirovoj_vojny_posolstvo-37875757.html
+
+# Заголовок: До початку передвиборчої кампанії залишилося дев’ять днів
+@ Ссылка: //www.ukr.net/news/main/Do_pochatku_peredviborchoji_kampaniji_zalishilosja_dev_jat_dniv-37875076.html
+
+# Заголовок: Чотири українські біатлоністки потрапили в топ-15 спринту в Нове-Место
+@ Ссылка: //www.ukr.net/news/main/Chotiri_ukrajinski_biatlonistki_potrapili_v_top_15_sprintu_v_Nove_Mesto-37874561.html
+
+# Заголовок: Промоутер огласил кандидатов на бой с Усиком
+@ Ссылка: //www.ukr.net/news/main/Promouter_oglasil_kandidatov_na_boj_s_Usikom-37873514.html
+
+# Заголовок: В Україні запускають електронний кабінет автовласника
+@ Ссылка: //www.ukr.net/news/main/U_ukrainskih_voditelej_pojavilsja_jelektronnyj_kabinet_Chto_jeto_takoe_kak_on_rabotaet_i_zachem_on_budet_nuzhen-37873491.html
+
+# Заголовок: У ПЦУ сьогодні близько 7 тисяч парафій – Епіфаній
+@ Ссылка: //www.ukr.net/news/main/U_PCU_sogodni_blizko_7_tisjach_parafij_Epifanij-37869228.html
+
+# Заголовок: Бойовики сім разів відкривали вогонь у бік українських позицій в зоні ООС
+@ Ссылка: //www.ukr.net/news/main/Bojoviki_sim_raziv_vidkrivali_vogon_u_bik_ukrajinskih_pozicij_v_zoni_OOS-37825665.html
+
+# Заголовок: Завтра в центральной части Украины и Киеве выпадет шесть сантиметров снега
+@ Ссылка: //www.ukr.net/news/main/Zavtra_v_centralnoj_chasti_Ukrainy_i_Kieve_vypadet_shest_santimetrov_snega-37327207.html
+
+
+
