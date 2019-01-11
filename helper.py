@@ -11,12 +11,8 @@ from selenium.webdriver.firefox.options import Options
 def write_news_by_category_in_file(news, file_name, source):
     file_ = open(file_name + ".txt", "w", encoding="utf-8")
     for i in news:
-        if (source == "tsnua"):
-            file_.write("# " + i["title"] + "\n")
-            file_.write("@ " + i["link"] + "\n\n")
-        else:
-            file_.write("# " + i[0] + "\n")
-            file_.write("@ " + i[1] + "\n\n")
+        file_.write("# " + i[0] + "\n")
+        file_.write("@ " + i[1] + "\n\n")
     file_.close()
 
 
@@ -26,17 +22,14 @@ def write_news_in_file(news, file_name, source):
     for category in news:
         for i in category[1]:
             file_.write("> " + category[0] + "\n")
-            if (source == "tsnua"):
-                file_.write("# " + i["title"] + "\n")
-                file_.write("@ " + i["link"] + "\n\n")
-            else:
-                file_.write("# " + i[0] + "\n")
-                file_.write("@ " + i[1] + "\n\n")
-        #file_.write("\n\n")
+            file_.write("# " + i[0] + "\n")
+            file_.write("@ " + i[1] + "\n\n")
+        file_.write("\n\n")
     file_.close()
 
 
 PATH_TO_GECKODRIVER = r"C:\Python37\geckodriver.exe"
+
 
 def get_html(url, to_scroll=False):
     # Standard version
@@ -51,7 +44,7 @@ def get_html(url, to_scroll=False):
 
     # Get html-code from url
     browser.get(url)
-    if to_scroll:
+    if to_scroll: 
         scroll_down(browser)
     html = browser.page_source
 
@@ -61,7 +54,7 @@ def get_html(url, to_scroll=False):
 
 
 def scroll_down(browser):
-    PAUSE_TIME = 1.0
+    PAUSE_TIME = 1.5
 
     # Get scroll height
     prev_height = browser.execute_script("return document.body.scrollHeight")
@@ -84,12 +77,22 @@ def scroll_down(browser):
 
 def get_parsed_data(url, to_scroll=False):
     html = get_html(url, to_scroll)
-
-    # Use lxml parser
-    parsed_data = BeautifulSoup(html, "lxml")
-
-    return parsed_data
+    return BeautifulSoup(html, "lxml")
 
 
 def save_image(url, file_name):
     urllib.request.urlretrieve(url, file_name)
+
+
+def format_for_db(string):
+    formated = string
+    
+    # Cure "//http..."
+    if len(formated) > 1 and formated[0] == formated[1] == "/":
+        formated = formated.replace("//", "", 1)
+    
+    # Replace quotes for correctness of queries
+    formated = formated.replace("'", "''")
+    formated = formated.replace('"', '""')
+
+    return formated
