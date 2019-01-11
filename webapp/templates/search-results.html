@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+   <meta charset="UTF-8">
+   
+   <title>Search Results</title>
+   
+   <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='styles.css') }}">
+   
+   <script>
+      function showHelp() {
+         message = "123";
+         alert(message);
+      }
+   </script>
+</head>
+
+<body>
+   <table id="table-search-results">
+      <tr>
+         <td class="table-header"> ID </td>
+         <td class="table-header"> Source </td>
+         <td class="table-header"> Category </td>
+         <td class="table-header"> Title </td>
+         <td class="table-header"> Go to </td>
+         <td class="table-header"> Show content <br> (if available) </td>
+         <td class="table-header"> Get images <br> (if available) </td>
+      </tr>
+
+      {% for row in news %}
+      <tr class="table-row">
+         {% for key in row %}
+         <td class="table-cell"> {{ row[key] }} </td>
+         {% endfor %}
+      </tr>
+      {% endfor %}
+   </table>
+</body>
+
+</html>

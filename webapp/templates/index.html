@@ -1,0 +1,24 @@
+{% extends "base-navigation.html" %}
+{% block title %} Welcome | News Parser v0.3 {% endblock %}
+
+{% block content %}
+
+<div id="inp">
+   <!--action="{{url_for('search')}}"-->
+   <form action="{{ url_for('search') }}" method="POST">
+      <div><input id="txt" type="search" name="fts" placeholder="Text"></div>
+
+      <div><input id="categ" type="search" name="category" placeholder="Category"></div>
+
+      <div>
+         <select id="sourc" name="select" size="2" multiple>
+            <option name="all" value="all">All</option>
+            <option name="tsnua" value="tsnua">TSN.UA</option>
+            <option name="ukrnet" value="ukrnet">UKR.NET</option>
+         </select>
+      </div>
+
+      <div><input id="subm" type="submit" value="Find"></div>
+   </form>
+</div>
+{% endblock %}
