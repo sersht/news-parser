@@ -4,26 +4,29 @@ import helper
 
 # Get news content by url
 def get_content(url):
-    parsed_page = helper.get_parsed_data(url, True)
+    parsed_page = helper.get_parsed_data(url)
 
     # In some articles title saved in different class
-    title = parsed_page.find(
-        attrs={"class": "p-name c-post-title u-uppercase"})
-    if title is None:
-        title = parsed_page.find(
-            attrs={"class": "p-name c-post-title u-uppercase js-si-title"})
-    title = title.get_text(strip=True)
+    # title = parsed_page.find(
+    #     attrs={"class": "p-name c-post-title u-uppercase"})
+    # if title is None:
+    #     title = parsed_page.find(
+    #         attrs={"class": "p-name c-post-title u-uppercase js-si-title"})
+    # title = title.get_text(strip=True)
 
     # Save all images links (by tag <img>)
-    images = list()
-    for image in parsed_page.find(name="div", attrs={"class": "h-entry c-main"}).findAll(name="img"):
-        images.append(image["src"])
-
+    # images = list()
+    # for image in parsed_page.find(name="div", attrs={"class": "h-entry c-main"}).findAll(name="img"):
+    #     images.append(image["src"])
+    
     article = parsed_page.find(
         name="article", attrs={"class": "o-cmr u-content-read"})
+    
+    if article is None:
+        raise ValueError("Didn't recognise as article")
 
     # Get unformated text directly from <article> tag
-    # print(article.get_text(strip=True))
+    # text = article.get_text(strip=True)
 
     # Get text iterating article tag-by-tag
     text = str()
@@ -31,7 +34,7 @@ def get_content(url):
         for string in tag.stripped_strings:
             text += (string + " ")
 
-    return {"title": title, "text": text, "images": images}
+    return ("title", text, "images")
 
 
 def parse_news_page(articles):
@@ -49,7 +52,7 @@ def parse_news_page(articles):
         link = news_data_tag.find(name="a")["href"]
         image_url = article.find(name="img")["src"]
 
-        news.append({"title": title, "link": link, "image_url": image_url})
+        news.append((title, link, image_url))
 
     return news
 
@@ -63,7 +66,7 @@ def get_categories_list(parsed_main_page):
         title = category.find(name="a").get_text(strip=True)
         link = category.find(name="a")["href"]
 
-        titles_and_links.append({"title": title, "link": link})
+        titles_and_links.append((title, link))
 
     # Delete "Main-page" category
     del titles_and_links[0]
@@ -84,13 +87,13 @@ def get_news_from_categories(categories):
     i = 0
     for category in categories:
         i += 1
-        
-        parsed_category_page = helper.get_parsed_data(category["link"])
-        news_list_from_category = get_news_from_category(parsed_category_page)
-        news.append((category["title"], news_list_from_category))
 
-        if (i == 2): break 
-        # helper.write_news_by_category_in_file(news_list_from_category, category["title"])
+        parsed_category_page = helper.get_parsed_data(category[1])
+        news_list_from_category = get_news_from_category(parsed_category_page)
+        news.append((category[0], news_list_from_category))
+
+        if (i == 1): break
+        # helper.write_news_by_category_in_file(news_list_from_category, category[0], "tsnua")
 
     return news
 
@@ -114,17 +117,29 @@ def get_news_from_main(parsed_main_page):
         title = news_tag.get_text(strip=True)
         link = news_tag["href"]
 
-        news.append({"title": title, "link": link, "image_url": "None"})
+        # Third value - head-image url 
+        news.append((title, link, ""))
 
     return news
 
 
 def parse():
+    all_news = list()
+
     main_page_url = "https://tsn.ua/"
     parsed_main_page = helper.get_parsed_data(main_page_url)
-    news_from_main = get_news_from_main(parsed_main_page)
-    helper.write_news_by_category_in_file(news_from_main, "TSN-main", "tsnua")
+    # news_from_main = get_news_from_main(parsed_main_page)
+    # helper.write_news_by_category_in_file(news_from_main, "TSN-main", "tsnua")
+    # all_news.extend(news_from_main)
 
     categories_list = get_categories_list(parsed_main_page)
     news_by_categories = get_news_from_categories(categories_list)
-    helper.write_news_in_file(news_by_categories, "TSN-categories", "tsnua")
+    # helper.write_news_in_file(news_by_categories, "TSN-categories", "tsnua")
+    all_news.extend(news_by_categories)
+
+    return all_news
+
+
+if __name__ == "__main__":
+    url = "https://tsn.ua/ukrayina/mama-mitropolita-epifaniya-rozpovila-pro-yogo-navchannya-i-yak-tuzhila-cherez-chernechiy-vibir-sina-1276575.html"
+    t = get_content(url)

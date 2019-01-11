@@ -20,14 +20,16 @@ def get_news_from_category(parsed_category_page):
 
     news_from_category = list()
     for news in news_list:
-        news_from_category.append((news.get_text(strip=True), news["href"]))
+        # First value - title, second value - link
+        news_from_category.append(
+            (news.get_text(strip=True), news["href"]))
 
     return news_from_category
 
 
 def get_news_from_categories(parsed_main_page):
     news_by_categories = list()
-    
+
     i = 0
     categories_list = get_categories_list(parsed_main_page)
     for category in categories_list:
@@ -37,8 +39,9 @@ def get_news_from_categories(parsed_main_page):
         news_by_category = get_news_from_category(parsed_category_page)
 
         news_by_categories.append((category[0], news_by_category))
-        if i == 2: break
-        helper.write_news_by_category_in_file(news_by_category, category[0], "ukrnet")
+
+        if i == 1: break
+        # helper.write_news_by_category_in_file(news_by_category, category[0], "ukrnet")
 
     return news_by_categories
 
@@ -72,14 +75,22 @@ def get_news_from_main(parsed_main_page):
 
 
 def parse():
+    all_news = list()
+    
     # main_page_url = "https://www.ukr.net/ua/"
     # parsed_main_page = helper.get_parsed_data(main_page_url)
     # news_from_main = get_news_from_main(parsed_main_page)
     # helper.write_news_in_file(source="ukrnet", news=news_from_main, file_name="UKRNET-main")
+    # all_news.extend(news_from_main)
 
     categories = "https://www.ukr.net/news/main.html"
     parsed_categories = helper.get_parsed_data(categories)
     news_by_categories = get_news_from_categories(parsed_categories)
-    helper.write_news_in_file(source="ukrnet", news=news_by_categories, file_name="UKRNET-categories")
+    # helper.write_news_in_file(source="ukrnet", news=news_by_categories, file_name="UKRNET-categories")
+    all_news.extend(news_by_categories)
 
-parse()
+    return all_news
+
+
+if __name__ == "__main__":
+    parse()
