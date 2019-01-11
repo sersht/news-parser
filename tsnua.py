@@ -2,7 +2,18 @@
 import helper
 
 
-# Get news content by url
+def get_images(url):
+    try:
+        parsed_page = helper.get_parsed_data(url)
+        # Save all images links (by tag <img>)
+        images = list()
+        for image in parsed_page.find(name="div", attrs={"class": "h-entry c-main"}).findAll(name="img"):
+            images.append(image["src"])
+        return images
+    except:
+        return list()
+
+
 def get_content(url):
     parsed_page = helper.get_parsed_data(url)
 
@@ -13,11 +24,6 @@ def get_content(url):
     #     title = parsed_page.find(
     #         attrs={"class": "p-name c-post-title u-uppercase js-si-title"})
     # title = title.get_text(strip=True)
-
-    # Save all images links (by tag <img>)
-    # images = list()
-    # for image in parsed_page.find(name="div", attrs={"class": "h-entry c-main"}).findAll(name="img"):
-    #     images.append(image["src"])
     
     article = parsed_page.find(
         name="article", attrs={"class": "o-cmr u-content-read"})

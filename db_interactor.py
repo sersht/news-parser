@@ -202,10 +202,28 @@ def find(sources=[], categories=[], pattern=""):
     if len(pattern) > 0:
         found_by_pattern = search_by_content(helper.format_for_db(pattern))
         result.intersection_update(found_by_pattern)
-
-    
+   
     return list(result)
 
+
+def get_row(index):
+    connection = psycopg2.connect(
+        user=DB_CONNECTION_CONFIG["user"],
+        password=DB_CONNECTION_CONFIG["password"],
+        host=DB_CONNECTION_CONFIG["host"],
+        port=DB_CONNECTION_CONFIG["port"],
+        database=DB_CONNECTION_CONFIG["db_name"])
+
+    cursor = connection.cursor()
+    query = "select * from news where news.id = {}".format(index)
+
+    cursor.execute(query)
+    found = cursor.fetchone()
+
+    cursor.close()
+    connection.close()
+
+    return list(found)
 
 # # delete_all_news()
 

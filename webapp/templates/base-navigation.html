@@ -3,14 +3,14 @@
 
 <head>
     <meta charset="UTF-8">
-    
+
     <title>{% block title %}{% endblock %}</title>
-    
+
     <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='styles.css') }}">
-    
+
     <script>
         function showHelp() {
-            message = "123";
+            message = "Text - full-text-search field, not case sensitive\n\nCategory - list of categories, enter strictly separated by commas, case sensitive\n\nSources - to choose multiple you need to press Ctrl + click on chosen value";
             alert(message);
         }
     </script>
@@ -19,13 +19,14 @@
 <body>
     <div>
         <a id="about" href="https://github.com/sersht/news-parser">ABOUT</a>
-        
+
         <a id="home" href="{{ url_for('index') }}">HOME</a>
-        
+
         <button id="help-btn" onclick="showHelp()">HELP</button>
     </div>
 
     <hr style="border-color: black;">
+
     {% block content %}{% endblock %}
 </body>
 

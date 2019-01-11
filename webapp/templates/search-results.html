@@ -1,41 +1,28 @@
-<!DOCTYPE html>
-<html>
+{% extends "base-navigation.html" %}
+{% block title %} Search Results | News Parser v0.4 {% endblock %}
 
-<head>
-   <meta charset="UTF-8">
-   
-   <title>Search Results</title>
-   
-   <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='styles.css') }}">
-   
-   <script>
-      function showHelp() {
-         message = "123";
-         alert(message);
-      }
-   </script>
-</head>
+{% block content %}
+<table id="table-search-results">
+   <tr class="table-header-row">
+      <td class="table-header-cell"> ID </td>
+      <td class="table-header-cell"> Source </td>
+      <td class="table-header-cell"> Category </td>
+      <td class="table-header-cell"> Title </td>
+      <td class="table-header-cell"> Go to </td>
+      <td class="table-header-cell"> Content <br> (if available) </td>
+      <td class="table-header-cell"> Images <br> (if available) </td>
+   </tr>
 
-<body>
-   <table id="table-search-results">
-      <tr>
-         <td class="table-header"> ID </td>
-         <td class="table-header"> Source </td>
-         <td class="table-header"> Category </td>
-         <td class="table-header"> Title </td>
-         <td class="table-header"> Go to </td>
-         <td class="table-header"> Show content <br> (if available) </td>
-         <td class="table-header"> Get images <br> (if available) </td>
-      </tr>
-
-      {% for row in news %}
-      <tr class="table-row">
-         {% for key in row %}
-         <td class="table-cell"> {{ row[key] }} </td>
-         {% endfor %}
-      </tr>
-      {% endfor %}
-   </table>
-</body>
-
-</html>
+   {% for row in news %}
+   <tr class="table-row">
+      <td class="table-cell"> {{ row[0] }} </td>
+      <td class="table-cell"> {{ row[1] }} </td>
+      <td class="table-cell"> {{ row[2] }} </td>
+      <td class="table-cell"> {{ row[3] }} </td>
+      <td class="table-cell"><a href="{{ row[5] }}">Go to</a></td>
+      <td class="table-cell"><a href="{{ url_for('content', index=row[0]) }}">Show</a></td>
+      <td class="table-cell"><a href="{{ url_for('imgs', index=row[0]) }}">Get images</a></td>
+   </tr>
+   {% endfor %}
+</table>
+{% endblock %}
