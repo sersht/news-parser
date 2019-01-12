@@ -87,20 +87,15 @@ def get_news_from_category(parsed_category_page):
 
 
 def get_news_from_categories(categories):
-    # parsed_page = helper.get_parsed_data(url, True)
     news = list()
-
-    i = 0
+    
     for category in categories:
-        i += 1
-
         parsed_category_page = helper.get_parsed_data(category[1])
         news_list_from_category = get_news_from_category(parsed_category_page)
         news.append((category[0], news_list_from_category))
 
-        if (i == 1): break
         # helper.write_news_by_category_in_file(news_list_from_category, category[0], "tsnua")
-
+        
     return news
 
 
@@ -144,8 +139,3 @@ def parse():
     all_news.extend(news_by_categories)
 
     return all_news
-
-
-if __name__ == "__main__":
-    url = "https://tsn.ua/ukrayina/mama-mitropolita-epifaniya-rozpovila-pro-yogo-navchannya-i-yak-tuzhila-cherez-chernechiy-vibir-sina-1276575.html"
-    t = get_content(url)

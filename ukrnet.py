@@ -30,19 +30,16 @@ def get_news_from_category(parsed_category_page):
 def get_news_from_categories(parsed_main_page):
     news_by_categories = list()
 
-    i = 0
     categories_list = get_categories_list(parsed_main_page)
     for category in categories_list:
-        i += 1
         parsed_category_page = helper.get_parsed_data(
             "https:" + category[1], to_scroll=True)
         news_by_category = get_news_from_category(parsed_category_page)
 
         news_by_categories.append((category[0], news_by_category))
 
-        if i == 1: break
         # helper.write_news_by_category_in_file(news_by_category, category[0], "ukrnet")
-
+    
     return news_by_categories
 
 
@@ -90,7 +87,3 @@ def parse():
     all_news.extend(news_by_categories)
 
     return all_news
-
-
-if __name__ == "__main__":
-    parse()

@@ -12,12 +12,9 @@ def index():
 
 @app.route("/search", methods=["GET", "POST"])
 def search():
-    if request.method == "GET":
-        return render_template("msg.html")
-
     search_text = request.form["fts"]
     categories_list = [x.strip() for x in request.form["category"].split(",")]
-    # Check if empty categories form
+    # Check if categories form is empty
     if len(categories_list) == 1 and categories_list[0] == '':
         categories_list.clear()
     sources_list = request.form.getlist("select")
