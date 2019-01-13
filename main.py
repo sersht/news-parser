@@ -8,8 +8,8 @@ import ukrnet
 
 
 def timed_job():
-    ukrnet.parse()
     tsnua.parse()
+    ukrnet.parse()
 
 
 sched = BackgroundScheduler()
