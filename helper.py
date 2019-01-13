@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 import time
 import urllib.request
+import os
 
 from bs4 import BeautifulSoup
 from selenium import webdriver
@@ -28,7 +29,8 @@ def write_news_in_file(news, file_name, source):
     file_.close()
 
 
-PATH_TO_GECKODRIVER = r"C:\Python37\geckodriver.exe"
+# PATH_TO_GECKODRIVER = r"C:\Python37\geckodriver.exe"
+PATH_TO_GECKODRIVER = os.path.join(os.path.dirname(__file__), "geckodriver.exe")
 
 
 def get_html(url, to_scroll=False):
@@ -37,7 +39,8 @@ def get_html(url, to_scroll=False):
 
     # Headless version
     options = Options()
-    options.set_headless(True)
+    options.headless = True
+    # options.set_headless(True)
     # options.add_argument("window-size=1920,1080")
     browser = webdriver.Firefox(
         options=options, executable_path=PATH_TO_GECKODRIVER)
@@ -96,3 +99,7 @@ def format_for_db(string):
     formated = formated.replace('"', '""')
 
     return formated
+
+if __name__ == "__main__":
+    parsed = get_parsed_data("https://stackoverflow.com/questions/918154/relative-paths-in-python")
+    print(parsed.find("img")["src"])
