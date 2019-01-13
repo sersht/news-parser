@@ -39,7 +39,7 @@ def get_html(url, to_scroll=False):
     # browser = webdriver.Firefox()
 
     # Headless version
-    options = ChromeOptions()
+    options = Options()
     #options.headless = True
     options.add_argument("--headless")
     options.binary_location = "/app/.apt/usr/bin/google-chrome-stable"
