@@ -83,7 +83,7 @@ def parse_news_page(category, articles):
 
         print(">>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> TRY ADD")
         try:
-            raw_content = tsnua.get_content(link)[1]
+            raw_content = get_content(link)[1]
             content = helper.format_for_db(raw_content)
             db_interactor.insert_news((source, category, title, content, link))
             print(">>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> ADDED NEWS")
