@@ -132,7 +132,7 @@ def parse():
 
     main_page_url = "https://tsn.ua/"
     
-    # parsed_main_page = helper.get_parsed_data(main_page_url)
+    parsed_main_page = helper.get_parsed_data(main_page_url)
     # news_from_main = get_news_from_main(parsed_main_page)
     # helper.write_news_by_category_in_file(news_from_main, "TSN-main", "tsnua")
     # all_news.extend(news_from_main)
