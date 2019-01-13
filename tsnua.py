@@ -88,11 +88,8 @@ def parse_news_page(category, articles):
             db_interactor.insert_news((source, category, title, content, link))
             print(">>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> ADDED NEWS")
         except Exception as e:
-            print("@@@@@@@@@@@@@@@@@@@@@@@@", end="")
-            if hasattr(e, 'message'):
-                print(e.message)
-            else:
-                print(e)
+            print(e)
+            
 
     # return news
 
