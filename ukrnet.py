@@ -15,7 +15,7 @@ def get_categories_list(parsed_categories_page):
     return titles_and_links
 
 
-def get_news_from_category(source, category, parsed_category_page):
+def get_news_from_category(category, parsed_category_page):
     news_list = parsed_category_page.findAll(
         name="a", attrs={"class": "im-tl_a", "href": True})
 
@@ -24,6 +24,7 @@ def get_news_from_category(source, category, parsed_category_page):
         # First value - title, second value - link
         # news_from_category.append(
         #     (news.get_text(strip=True), news["href"]))
+        source = "ukrnet"
         title = news.get_text(strip=True)
         link = news["href"]
         db_interactor.insert_news((source, category, title, "", link))
@@ -39,7 +40,7 @@ def get_news_from_categories(parsed_main_page):
         parsed_category_page = helper.get_parsed_data(
             "https:" + category[1], to_scroll=True)
         # news_by_category = get_news_from_category(parsed_category_page)
-        get_news_from_category("ukrnet", category[0], parsed_category_page)
+        get_news_from_category(category[0], parsed_category_page)
 
         # news_by_categories.append((category[0], news_by_category))
         # helper.write_news_by_category_in_file(news_by_category, category[0], "ukrnet")
@@ -59,13 +60,14 @@ def get_news_from_main(parsed_main_page):
 
         # Parse "Головне" section.
         # It has a different html-code structure from other sections.
+        source = "ukrnet"
         for subsection in section.findAll(attrs={"class": "feed__section--top"}):
             for news in subsection.findAll(name="a", attrs={"href": True}):
                 # titles_and_links.append(
                 #     (news.get_text(strip=True), news["href"]))
                 title = news.get_text(strip=True)
                 link = news["href"]
-                db_interactor.insert_news(("ukrnet", category, title, "", link))
+                db_interactor.insert_news((source, category, title, "", link))
 
         # Parse all other sections.
         for subsection in section.findAll(attrs={"class": "feed__item"}):
@@ -74,7 +76,7 @@ def get_news_from_main(parsed_main_page):
                 #     (news.get_text(strip=True), news["href"]))
                 title = news.get_text(strip=True)
                 link = news["href"]
-                db_interactor.insert_news(("ukrnet", category, title, "", link))
+                db_interactor.insert_news((source, category, title, "", link))
 
         # news_from_main.append((category, titles_and_links))
 

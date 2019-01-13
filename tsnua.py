@@ -63,7 +63,7 @@ def get_categories_list(parsed_main_page):
     return titles_and_links
 
 
-def parse_news_page(source, category, articles):
+def parse_news_page(category, articles):
     # news = list()
     print(">>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> CATEGORY")
     for article in articles:
@@ -74,6 +74,7 @@ def parse_news_page(source, category, articles):
         if post_meta_tag is None:
             continue
 
+        source = "tsnua"
         title = post_meta_tag.find(name="a").get_text(strip=True)
         link = news_data_tag.find(name="a")["href"]
         # image_url = article.find(name="img")["src"]
@@ -96,11 +97,11 @@ def parse_news_page(source, category, articles):
     # return news
 
 
-def get_news_from_category(source, category, parsed_category_page):
+def get_news_from_category(category, parsed_category_page):
     articles = parsed_category_page.findAll(
         name="article", attrs={"class": ["h-entry", "c-entry"]})
     # return parse_news_page(articles)
-    parse_news_page(source, category, articles)
+    parse_news_page(category, articles)
 
 
 def get_news_from_categories(categories):
@@ -112,7 +113,7 @@ def get_news_from_categories(categories):
         # news.append((category[0], news_list_from_category))
         # helper.write_news_by_category_in_file(news_list_from_category, category[0], "tsnua")
 
-        get_news_from_category("tsnua", category[0], parsed_category_page)
+        get_news_from_category(category[0], parsed_category_page)
         
     return news
 
