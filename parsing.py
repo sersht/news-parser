@@ -7,7 +7,7 @@ import helper
 
 def do():
     tsnua.parse()
-    ukrnet.parse()
+    # ukrnet.parse()
 
 def second_do():
     source = "ukrnet"

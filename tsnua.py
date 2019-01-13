@@ -65,7 +65,7 @@ def get_categories_list(parsed_main_page):
 
 def parse_news_page(source, category, articles):
     # news = list()
-
+    print(">>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> CATEGORY")
     for article in articles:
         news_data_tag = article.find(name="div")
         post_meta_tag = news_data_tag.find(attrs={"class": "c-post-meta"})
@@ -80,10 +80,12 @@ def parse_news_page(source, category, articles):
 
         # news.append((title, link, image_url))
 
+        print(">>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> TRY ADD")
         try:
             raw_content = tsnua.get_content(link)[1]
             content = helper.format_for_db(raw_content)
             db_interactor.insert_news((source, category, title, content, link))
+            print(">>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> ADDED NEWS")
         except:
             pass
 
@@ -137,6 +139,7 @@ def get_news_from_main(parsed_main_page):
 
 
 def parse():
+    print(">>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> PARSE")
     # all_news = list()
 
     main_page_url = "https://tsn.ua/"
