@@ -1,6 +1,4 @@
 # News parser
-
-## Description
 The script for parsing UKR.NET and TSN.UA resources. Get news from main pages and categories.
 
 Used:
