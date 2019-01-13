@@ -45,7 +45,6 @@ def get_html(url, to_scroll=False):
     options.binary_location = "/app/.apt/usr/bin/google-chrome-stable"
     browser = webdriver.Chrome(chrome_options=options)
     # options.set_headless(True)
-    # options.add_argument("window-size=1920,1080")
     # browser = webdriver.Firefox(options=options, executable_path=PATH_TO_GECKODRIVER)
 
     # Get html-code from url
