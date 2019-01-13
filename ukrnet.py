@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
 import helper
+import db_interactor
 
 
 def get_categories_list(parsed_categories_page):
@@ -29,7 +30,7 @@ def get_news_from_category(parsed_category_page):
 
 def get_news_from_categories(parsed_main_page):
     news_by_categories = list()
-
+    
     categories_list = get_categories_list(parsed_main_page)
     for category in categories_list:
         parsed_category_page = helper.get_parsed_data(
@@ -37,7 +38,7 @@ def get_news_from_categories(parsed_main_page):
         news_by_category = get_news_from_category(parsed_category_page)
 
         news_by_categories.append((category[0], news_by_category))
-
+        break
         # helper.write_news_by_category_in_file(news_by_category, category[0], "ukrnet")
     
     return news_by_categories
@@ -74,11 +75,11 @@ def get_news_from_main(parsed_main_page):
 def parse():
     all_news = list()
     
-    # main_page_url = "https://www.ukr.net/ua/"
-    # parsed_main_page = helper.get_parsed_data(main_page_url)
-    # news_from_main = get_news_from_main(parsed_main_page)
+    main_page_url = "https://www.ukr.net/ua/"
+    parsed_main_page = helper.get_parsed_data(main_page_url)
+    news_from_main = get_news_from_main(parsed_main_page)
     # helper.write_news_in_file(source="ukrnet", news=news_from_main, file_name="UKRNET-main")
-    # all_news.extend(news_from_main)
+    all_news.extend(news_from_main)
 
     categories = "https://www.ukr.net/news/main.html"
     parsed_categories = helper.get_parsed_data(categories)

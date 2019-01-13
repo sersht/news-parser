@@ -37,4 +37,42 @@
 [Parent 8016, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
 [Child 1776, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
 [Child 1776, Chrome_ChildThread] WARNING: pipe error: 109: file z:[Parent 8016, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 166
-[RDD 4172, Chrome_ChildT
+[RDD 4172, Chrome_ChildT1547392962174	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Sergey\\AppData\\Local\\Temp\\rust_mozprofile.hYDiBcWp9FHl"
+*** You are running in headless mode.
+1547392966245	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1547392966246	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1547392990071	Marionette	INFO	Listening on port 50008
+1547392990288	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://upst.fwdcdn.com/js/53/portal/main.js, line 1211: unreachable code after return statement
+JavaScript warning: https://upst.fwdcdn.com/js/53/portal/main.js, line 1211: unreachable code after return statement
+1547393014313	Marionette	INFO	Stopped listening on port 50008
+[Child 1044, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 4952, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 4952, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 3384, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 3384, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.[RDD 5408, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+1547393021721	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Sergey\\AppData\\Local\\Temp\\rust_mozprofile.ZCsAjYRK5XeL"
+*** You are running in headless mode.
+1547393023637	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1547393023637	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1547393028222	Marionette	INFO	Listening on port 50155
+1547393028311	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://upst.fwdcdn.com/js/news/jquery-1-min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1547393036126	Marionette	INFO	Stopped listening on port 50155
+[Child 2732, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 6080, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 6080, Chrome_ChildThread] WARNING: pipe error: 109: file [Parent 1076, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 166
+[RDD 6036, Chrome_Chil1547393041744	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Sergey\\AppData\\Local\\Temp\\rust_mozprofile.KkCP2a0F5tZo"
+*** You are running in headless mode.
+1547393043176	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1547393043176	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1547393047606	Marionette	INFO	Listening on port 50232
+1547393047852	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://upst.fwdcdn.com/js/news/jquery-1-min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1547393061159	Marionette	INFO	Stopped listening on port 50232
+[Child 6012, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 6032, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 6032, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/[Parent 2180, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 166
+[RDD 968, Chrome_Child
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
