@@ -1,5 +1,8 @@
 # -*- coding: utf-8 -*-
 import time
+# import urllib.parse as urlparse
+import os
+
 import psycopg2
 
 import helper
@@ -7,21 +10,26 @@ import ukrnet
 import tsnua
 
 
-DB_CONNECTION_CONFIG = {
-    "user": "postgres",
-    "password": "123456",
-    "host": "127.0.0.1",
-    "port": "5432",
-    "db_name": "news"}
+# DATABASE CONNECTION CONFIG
+# url = urlparse.urlparse(os.environ['DATABASE_URL'])
+# DB_CONNECTION_CONFIG = {
+#     "user": url.username,
+#     "password": url.password,
+#     "host": url.hostname,
+#     "port": url.port,
+#     "db_name": url.path[1:]
+# }
 
+DATABASE_URL = os.environ['DATABASE_URL']
 
 def delete_all_news():
-    connection = psycopg2.connect(
-        user=DB_CONNECTION_CONFIG["user"],
-        password=DB_CONNECTION_CONFIG["password"],
-        host=DB_CONNECTION_CONFIG["host"],
-        port=DB_CONNECTION_CONFIG["port"],
-        database=DB_CONNECTION_CONFIG["db_name"])
+    # connection = psycopg2.connect(
+    #     user=DB_CONNECTION_CONFIG["user"],
+    #     password=DB_CONNECTION_CONFIG["password"],
+    #     host=DB_CONNECTION_CONFIG["host"],
+    #     port=DB_CONNECTION_CONFIG["port"],
+    #     database=DB_CONNECTION_CONFIG["db_name"])
+    connection = psycopg2.connect(DATABASE_URL, sslmode='require')
 
     cursor = connection.cursor()
 
@@ -39,12 +47,13 @@ def delete_all_news():
 
 # record is tuple (source, category, title, content, link)
 def insert_news(record):
-    connection = psycopg2.connect(
-        user=DB_CONNECTION_CONFIG["user"],
-        password=DB_CONNECTION_CONFIG["password"],
-        host=DB_CONNECTION_CONFIG["host"],
-        port=DB_CONNECTION_CONFIG["port"],
-        database=DB_CONNECTION_CONFIG["db_name"])
+    # connection = psycopg2.connect(
+    #     user=DB_CONNECTION_CONFIG["user"],
+    #     password=DB_CONNECTION_CONFIG["password"],
+    #     host=DB_CONNECTION_CONFIG["host"],
+    #     port=DB_CONNECTION_CONFIG["port"],
+    #     database=DB_CONNECTION_CONFIG["db_name"])
+    connection = psycopg2.connect(DATABASE_URL, sslmode='require')
 
     cursor = connection.cursor()
 
@@ -69,12 +78,13 @@ def insert_news(record):
 
 # selected is tuple, len(selected) > 0
 def search_by_source(selected):
-    connection = psycopg2.connect(
-        user=DB_CONNECTION_CONFIG["user"],
-        password=DB_CONNECTION_CONFIG["password"],
-        host=DB_CONNECTION_CONFIG["host"],
-        port=DB_CONNECTION_CONFIG["port"],
-        database=DB_CONNECTION_CONFIG["db_name"])
+    # connection = psycopg2.connect(
+    #     user=DB_CONNECTION_CONFIG["user"],
+    #     password=DB_CONNECTION_CONFIG["password"],
+    #     host=DB_CONNECTION_CONFIG["host"],
+    #     port=DB_CONNECTION_CONFIG["port"],
+    #     database=DB_CONNECTION_CONFIG["db_name"])
+    connection = psycopg2.connect(DATABASE_URL, sslmode='require')
 
     cursor = connection.cursor()
 
@@ -101,12 +111,13 @@ def search_by_source(selected):
 
 
 def search_by_category(selected):
-    connection = psycopg2.connect(
-        user=DB_CONNECTION_CONFIG["user"],
-        password=DB_CONNECTION_CONFIG["password"],
-        host=DB_CONNECTION_CONFIG["host"],
-        port=DB_CONNECTION_CONFIG["port"],
-        database=DB_CONNECTION_CONFIG["db_name"])
+    # connection = psycopg2.connect(
+    #     user=DB_CONNECTION_CONFIG["user"],
+    #     password=DB_CONNECTION_CONFIG["password"],
+    #     host=DB_CONNECTION_CONFIG["host"],
+    #     port=DB_CONNECTION_CONFIG["port"],
+    #     database=DB_CONNECTION_CONFIG["db_name"])
+    connection = psycopg2.connect(DATABASE_URL, sslmode='require')
 
     cursor = connection.cursor()
 
@@ -133,12 +144,13 @@ def search_by_category(selected):
 
 
 def search_by_content(pattern):
-    connection = psycopg2.connect(
-        user=DB_CONNECTION_CONFIG["user"],
-        password=DB_CONNECTION_CONFIG["password"],
-        host=DB_CONNECTION_CONFIG["host"],
-        port=DB_CONNECTION_CONFIG["port"],
-        database=DB_CONNECTION_CONFIG["db_name"])
+    # connection = psycopg2.connect(
+    #     user=DB_CONNECTION_CONFIG["user"],
+    #     password=DB_CONNECTION_CONFIG["password"],
+    #     host=DB_CONNECTION_CONFIG["host"],
+    #     port=DB_CONNECTION_CONFIG["port"],
+    #     database=DB_CONNECTION_CONFIG["db_name"])
+    connection = psycopg2.connect(DATABASE_URL, sslmode='require')
 
     cursor = connection.cursor()
 
@@ -161,12 +173,13 @@ def search_by_content(pattern):
 
 
 def get_news_count_in_db():
-    connection = psycopg2.connect(
-        user=DB_CONNECTION_CONFIG["user"],
-        password=DB_CONNECTION_CONFIG["password"],
-        host=DB_CONNECTION_CONFIG["host"],
-        port=DB_CONNECTION_CONFIG["port"],
-        database=DB_CONNECTION_CONFIG["db_name"])
+    # connection = psycopg2.connect(
+    #     user=DB_CONNECTION_CONFIG["user"],
+    #     password=DB_CONNECTION_CONFIG["password"],
+    #     host=DB_CONNECTION_CONFIG["host"],
+    #     port=DB_CONNECTION_CONFIG["port"],
+    #     database=DB_CONNECTION_CONFIG["db_name"])
+    connection = psycopg2.connect(DATABASE_URL, sslmode='require')
 
     cursor = connection.cursor()
     query = "select count(*) from news"
@@ -184,7 +197,7 @@ def get_news_count_in_db():
 def find(sources=[], categories=[], pattern=""):
     if len(sources) == 0 and len(categories) == 0 and len(pattern) == 0:
         return list()
-    
+
     result = set(range(1, get_news_count_in_db() + 1))
 
     if len(sources) > 0 and ("all" not in sources):
@@ -198,21 +211,22 @@ def find(sources=[], categories=[], pattern=""):
             categories[i] = helper.format_for_db(categories[i])
         found_by_categories = search_by_category(tuple(categories))
         result.intersection_update(found_by_categories)
-    
+
     if len(pattern) > 0:
         found_by_pattern = search_by_content(helper.format_for_db(pattern))
         result.intersection_update(found_by_pattern)
-   
+
     return list(result)
 
 
 def get_row(index):
-    connection = psycopg2.connect(
-        user=DB_CONNECTION_CONFIG["user"],
-        password=DB_CONNECTION_CONFIG["password"],
-        host=DB_CONNECTION_CONFIG["host"],
-        port=DB_CONNECTION_CONFIG["port"],
-        database=DB_CONNECTION_CONFIG["db_name"])
+    # connection = psycopg2.connect(
+    #     user=DB_CONNECTION_CONFIG["user"],
+    #     password=DB_CONNECTION_CONFIG["password"],
+    #     host=DB_CONNECTION_CONFIG["host"],
+    #     port=DB_CONNECTION_CONFIG["port"],
+    #     database=DB_CONNECTION_CONFIG["db_name"])
+    connection = psycopg2.connect(DATABASE_URL, sslmode='require')
 
     cursor = connection.cursor()
     query = "select * from news where news.id = {}".format(index)
@@ -256,7 +270,7 @@ def get_row(index):
 #         end = time.time()
 #         print(end - beg)
 #         exit()
-        
+
 # end = time.time()
 # print("estimated " + str(int((end - beg) / 60)) + "min " + str(int((end - beg)) % 60) + "sec")
 
