@@ -5,7 +5,8 @@ import os
 
 from bs4 import BeautifulSoup
 from selenium import webdriver
-from selenium.webdriver.firefox.options import Options
+#from selenium.webdriver.firefox.options import Options
+from selenium.webdriver.chrome.options import Options
 
 
 # <<<<< BAD >>>>>
@@ -30,7 +31,7 @@ def write_news_in_file(news, file_name, source):
 
 
 # PATH_TO_GECKODRIVER = r"C:\Python37\geckodriver.exe"
-PATH_TO_GECKODRIVER = os.path.join(os.path.dirname(__file__), "geckodriver.exe")
+# PATH_TO_GECKODRIVER = os.path.join(os.path.dirname(__file__), "geckodriver.exe")
 
 
 def get_html(url, to_scroll=False):
@@ -39,7 +40,8 @@ def get_html(url, to_scroll=False):
 
     # Headless version
     options = ChromeOptions()
-    options.headless = True
+    #options.headless = True
+    options.add_argument("--headless")
     options.binary_location = "/app/.apt/usr/bin/google-chrome-stable"
     browser = webdriver.Chrome(chrome_options=options)
     # options.set_headless(True)
@@ -100,7 +102,3 @@ def format_for_db(string):
     formated = formated.replace('"', '""')
 
     return formated
-
-if __name__ == "__main__":
-    parsed = get_parsed_data("https://stackoverflow.com/questions/918154/relative-paths-in-python")
-    print(parsed.find("img")["src"])
