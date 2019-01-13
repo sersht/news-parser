@@ -6,6 +6,10 @@ import helper
 
 
 def do():
+    ukrnet.parse()
+    tsnua.parse()
+
+def second_do():
     source = "ukrnet"
     content = ""
     print("PARSING >>>>>>>>>>>>>>>>>>>>>>>>> Begin parsing UKRNET")

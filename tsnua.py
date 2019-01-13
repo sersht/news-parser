@@ -6,12 +6,12 @@ import db_interactor
 def get_images(url):
     try:
         parsed_page = helper.get_parsed_data(url)
-        
+
         # Save all images links (by tag <img>)
         images = list()
         for image in parsed_page.find(name="div", attrs={"class": "h-entry c-main"}).findAll(name="img"):
             images.append(image["src"])
-        
+
         return images
     except:
         return list()
@@ -27,10 +27,10 @@ def get_content(url):
     #     title = parsed_page.find(
     #         attrs={"class": "p-name c-post-title u-uppercase js-si-title"})
     # title = title.get_text(strip=True)
-    
+
     article = parsed_page.find(
         name="article", attrs={"class": "o-cmr u-content-read"})
-    
+
     if article is None:
         raise ValueError("Didn't recognise as article")
 
@@ -44,26 +44,6 @@ def get_content(url):
             text += (string + " ")
 
     return ("title", text, "images")
-
-
-def parse_news_page(articles):
-    news = list()
-
-    for article in articles:
-        news_data_tag = article.find(name="div")
-        post_meta_tag = news_data_tag.find(attrs={"class": "c-post-meta"})
-
-        # Check if news-block is valid
-        if post_meta_tag is None:
-            continue
-
-        title = post_meta_tag.find(name="a").get_text(strip=True)
-        link = news_data_tag.find(name="a")["href"]
-        image_url = article.find(name="img")["src"]
-
-        news.append((title, link, image_url))
-
-    return news
 
 
 def get_categories_list(parsed_main_page):
@@ -83,10 +63,38 @@ def get_categories_list(parsed_main_page):
     return titles_and_links
 
 
-def get_news_from_category(parsed_category_page):
+def parse_news_page(source, category, articles):
+    # news = list()
+
+    for article in articles:
+        news_data_tag = article.find(name="div")
+        post_meta_tag = news_data_tag.find(attrs={"class": "c-post-meta"})
+
+        # Check if news-block is valid
+        if post_meta_tag is None:
+            continue
+
+        title = post_meta_tag.find(name="a").get_text(strip=True)
+        link = news_data_tag.find(name="a")["href"]
+        # image_url = article.find(name="img")["src"]
+
+        # news.append((title, link, image_url))
+
+        try:
+            raw_content = tsnua.get_content(link)[1]
+            content = helper.format_for_db(raw_content)
+            db_interactor.insert_news((source, category, title, content, link))
+        except:
+            pass
+
+    # return news
+
+
+def get_news_from_category(source, category, parsed_category_page):
     articles = parsed_category_page.findAll(
         name="article", attrs={"class": ["h-entry", "c-entry"]})
-    return parse_news_page(articles)
+    # return parse_news_page(articles)
+    parse_news_page(source, category, articles)
 
 
 def get_news_from_categories(categories):
@@ -94,10 +102,11 @@ def get_news_from_categories(categories):
     
     for category in categories:
         parsed_category_page = helper.get_parsed_data(category[1])
-        news_list_from_category = get_news_from_category(parsed_category_page)
-        news.append((category[0], news_list_from_category))
-
+        # news_list_from_category = get_news_from_category(parsed_category_page)
+        # news.append((category[0], news_list_from_category))
         # helper.write_news_by_category_in_file(news_list_from_category, category[0], "tsnua")
+
+        get_news_from_category("tsnua", category[0], parsed_category_page)
         
     return news
 
@@ -128,7 +137,7 @@ def get_news_from_main(parsed_main_page):
 
 
 def parse():
-    all_news = list()
+    # all_news = list()
 
     main_page_url = "https://tsn.ua/"
     
@@ -138,8 +147,9 @@ def parse():
     # all_news.extend(news_from_main)
 
     categories_list = get_categories_list(parsed_main_page)
-    news_by_categories = get_news_from_categories(categories_list)
+    get_news_from_categories(categories_list)
+    # news_by_categories = get_news_from_categories(categories_list)
     # helper.write_news_in_file(news_by_categories, "TSN-categories", "tsnua")
-    all_news.extend(news_by_categories)
+    # all_news.extend(news_by_categories)
 
-    return all_news
+    # return all_news
