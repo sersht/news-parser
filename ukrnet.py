@@ -24,7 +24,15 @@ def get_news_from_category(category, parsed_category_page):
         source = "ukrnet"
         title = helper.format_for_db(news.get_text(strip=True))
         link = helper.format_for_db(news["href"])
-        db_interactor.insert_news((source, helper.format_for_db(category), title, "", link))
+
+        try:
+            db_interactor.insert_news((source, helper.format_for_db(category), title, "", link))
+        except:
+            print("Ukrnet failed to add news......")
+            print(source)
+            print(category)
+            print(title)
+            print(link)
 
 
 def get_news_from_categories(parsed_main_page):

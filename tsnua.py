@@ -70,8 +70,12 @@ def parse_news_page(category, articles):
             content = helper.format_for_db(raw_content)
             db_interactor.insert_news((source, helper.format_for_db(category), title, content, link))
         except Exception as e:
-            print("@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@")
+            print("Tsnua failed to add news......")
             print(e)
+            print(source)
+            print(category)
+            print(title)
+            print(link)
 
 
 def get_news_from_category(category, parsed_category_page):

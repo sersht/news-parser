@@ -28,7 +28,7 @@ def get_html(url, to_scroll=False):
 
 
 def scroll_down(browser):
-    PAUSE_TIME = 2
+    PAUSE_TIME = 1
 
     # Get scroll height
     prev_height = browser.execute_script("return document.body.scrollHeight")

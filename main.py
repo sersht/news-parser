@@ -7,13 +7,13 @@ import tsnua
 import ukrnet
 
 
+sched = BackgroundScheduler()
+
+@sched.scheduled_job('interval', seconds=10)
 def timed_job():
     ukrnet.parse()
     tsnua.parse()
 
-
-sched = BackgroundScheduler()
-sched.add_job(func=timed_job, trigger="interval", seconds=5)
 sched.start()
 
 
