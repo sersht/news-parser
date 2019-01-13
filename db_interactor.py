@@ -179,4 +179,4 @@ def get_row(index):
     cursor.close()
     connection.close()
 
-    return list(found)
+    return found

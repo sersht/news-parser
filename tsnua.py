@@ -70,6 +70,7 @@ def parse_news_page(category, articles):
             content = helper.format_for_db(raw_content)
             db_interactor.insert_news((source, helper.format_for_db(category), title, content, link))
         except Exception as e:
+            print("@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@")
             print(e)
 
 
@@ -83,6 +84,7 @@ def get_news_from_categories(categories):
     for category in categories:
         parsed_category_page = helper.get_parsed_data(category[1])
         get_news_from_category(category[0], parsed_category_page)
+        break
 
 
 def get_news_from_main(parsed_main_page):

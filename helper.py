@@ -12,7 +12,6 @@ def get_html(url, to_scroll=False):
     # Headless version
     options = Options()
     options.add_argument("--headless")
-    options.add_argument('--no-sandbox')
     options.binary_location = "/app/.apt/usr/bin/google-chrome-stable"
     
     browser = webdriver.Chrome(chrome_options=options)

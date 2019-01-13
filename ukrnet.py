@@ -33,6 +33,7 @@ def get_news_from_categories(parsed_main_page):
         parsed_category_page = helper.get_parsed_data(
             "https:" + category[1], to_scroll=True)
         get_news_from_category(category[0], parsed_category_page)
+        break
 
 
 def get_news_from_main(parsed_main_page):
