@@ -20,22 +20,11 @@ def get_images(url):
 def get_content(url):
     parsed_page = helper.get_parsed_data(url)
 
-    # In some articles title saved in different class
-    # title = parsed_page.find(
-    #     attrs={"class": "p-name c-post-title u-uppercase"})
-    # if title is None:
-    #     title = parsed_page.find(
-    #         attrs={"class": "p-name c-post-title u-uppercase js-si-title"})
-    # title = title.get_text(strip=True)
-
     article = parsed_page.find(
         name="article", attrs={"class": "o-cmr u-content-read"})
 
     if article is None:
         raise ValueError("Didn't recognise as article")
-
-    # Get unformated text directly from <article> tag
-    # text = article.get_text(strip=True)
 
     # Get text iterating article tag-by-tag
     text = str()
@@ -43,7 +32,7 @@ def get_content(url):
         for string in tag.stripped_strings:
             text += (string + " ")
 
-    return ("title", text, "images")
+    return ("pseudo_title", text, "pseudo_images")
 
 
 def get_categories_list(parsed_main_page):
@@ -64,8 +53,6 @@ def get_categories_list(parsed_main_page):
 
 
 def parse_news_page(category, articles):
-    # news = list()
-    print(">>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> CATEGORY")
     for article in articles:
         news_data_tag = article.find(name="div")
         post_meta_tag = news_data_tag.find(attrs={"class": "c-post-meta"})
@@ -77,42 +64,25 @@ def parse_news_page(category, articles):
         source = "tsnua"
         title = helper.format_for_db(post_meta_tag.find(name="a").get_text(strip=True))
         link = helper.format_for_db(news_data_tag.find(name="a")["href"])
-        # image_url = article.find(name="img")["src"]
 
-        # news.append((title, link, image_url))
-
-        print(">>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> TRY ADD")
         try:
             raw_content = get_content(link)[1]
             content = helper.format_for_db(raw_content)
             db_interactor.insert_news((source, helper.format_for_db(category), title, content, link))
-            print(">>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> ADDED NEWS")
         except Exception as e:
             print(e)
-            
-
-    # return news
 
 
 def get_news_from_category(category, parsed_category_page):
     articles = parsed_category_page.findAll(
         name="article", attrs={"class": ["h-entry", "c-entry"]})
-    # return parse_news_page(articles)
     parse_news_page(category, articles)
 
 
 def get_news_from_categories(categories):
-    news = list()
-    
     for category in categories:
         parsed_category_page = helper.get_parsed_data(category[1])
-        # news_list_from_category = get_news_from_category(parsed_category_page)
-        # news.append((category[0], news_list_from_category))
-        # helper.write_news_by_category_in_file(news_list_from_category, category[0], "tsnua")
-
         get_news_from_category(category[0], parsed_category_page)
-        
-    return news
 
 
 def get_news_from_main(parsed_main_page):
@@ -141,20 +111,8 @@ def get_news_from_main(parsed_main_page):
 
 
 def parse():
-    print(">>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> PARSE")
-    # all_news = list()
-
     main_page_url = "https://tsn.ua/"
-    
     parsed_main_page = helper.get_parsed_data(main_page_url)
-    # news_from_main = get_news_from_main(parsed_main_page)
-    # helper.write_news_by_category_in_file(news_from_main, "TSN-main", "tsnua")
-    # all_news.extend(news_from_main)
 
     categories_list = get_categories_list(parsed_main_page)
     get_news_from_categories(categories_list)
-    # news_by_categories = get_news_from_categories(categories_list)
-    # helper.write_news_in_file(news_by_categories, "TSN-categories", "tsnua")
-    # all_news.extend(news_by_categories)
-
-    # return all_news

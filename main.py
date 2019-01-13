@@ -3,11 +3,15 @@ import atexit
 from webapp import app
 from apscheduler.schedulers.background import BackgroundScheduler
 
-import parsing
+import tsnua
+import ukrnet
 
 
 def timed_job():
-    parsing.do()
+    ukrnet.parse()
+    tsnua.parse()
+
+
 sched = BackgroundScheduler()
 sched.add_job(func=timed_job, trigger="interval", seconds=5)
 sched.start()

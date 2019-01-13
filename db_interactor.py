@@ -1,34 +1,13 @@
 # -*- coding: utf-8 -*-
-import time
-# import urllib.parse as urlparse
 import os
-
 import psycopg2
 
 import helper
-import ukrnet
-import tsnua
 
-
-# DATABASE CONNECTION CONFIG
-# url = urlparse.urlparse(os.environ['DATABASE_URL'])
-# DB_CONNECTION_CONFIG = {
-#     "user": url.username,
-#     "password": url.password,
-#     "host": url.hostname,
-#     "port": url.port,
-#     "db_name": url.path[1:]
-# }
 
 DATABASE_URL = os.environ['DATABASE_URL']
 
 def delete_all_news():
-    # connection = psycopg2.connect(
-    #     user=DB_CONNECTION_CONFIG["user"],
-    #     password=DB_CONNECTION_CONFIG["password"],
-    #     host=DB_CONNECTION_CONFIG["host"],
-    #     port=DB_CONNECTION_CONFIG["port"],
-    #     database=DB_CONNECTION_CONFIG["db_name"])
     connection = psycopg2.connect(DATABASE_URL, sslmode='require')
 
     cursor = connection.cursor()
@@ -47,12 +26,6 @@ def delete_all_news():
 
 # record is tuple (source, category, title, content, link)
 def insert_news(record):
-    # connection = psycopg2.connect(
-    #     user=DB_CONNECTION_CONFIG["user"],
-    #     password=DB_CONNECTION_CONFIG["password"],
-    #     host=DB_CONNECTION_CONFIG["host"],
-    #     port=DB_CONNECTION_CONFIG["port"],
-    #     database=DB_CONNECTION_CONFIG["db_name"])
     connection = psycopg2.connect(DATABASE_URL, sslmode='require')
 
     cursor = connection.cursor()
@@ -78,12 +51,6 @@ def insert_news(record):
 
 # selected is tuple, len(selected) > 0
 def search_by_source(selected):
-    # connection = psycopg2.connect(
-    #     user=DB_CONNECTION_CONFIG["user"],
-    #     password=DB_CONNECTION_CONFIG["password"],
-    #     host=DB_CONNECTION_CONFIG["host"],
-    #     port=DB_CONNECTION_CONFIG["port"],
-    #     database=DB_CONNECTION_CONFIG["db_name"])
     connection = psycopg2.connect(DATABASE_URL, sslmode='require')
 
     cursor = connection.cursor()
@@ -111,12 +78,6 @@ def search_by_source(selected):
 
 
 def search_by_category(selected):
-    # connection = psycopg2.connect(
-    #     user=DB_CONNECTION_CONFIG["user"],
-    #     password=DB_CONNECTION_CONFIG["password"],
-    #     host=DB_CONNECTION_CONFIG["host"],
-    #     port=DB_CONNECTION_CONFIG["port"],
-    #     database=DB_CONNECTION_CONFIG["db_name"])
     connection = psycopg2.connect(DATABASE_URL, sslmode='require')
 
     cursor = connection.cursor()
@@ -144,12 +105,6 @@ def search_by_category(selected):
 
 
 def search_by_content(pattern):
-    # connection = psycopg2.connect(
-    #     user=DB_CONNECTION_CONFIG["user"],
-    #     password=DB_CONNECTION_CONFIG["password"],
-    #     host=DB_CONNECTION_CONFIG["host"],
-    #     port=DB_CONNECTION_CONFIG["port"],
-    #     database=DB_CONNECTION_CONFIG["db_name"])
     connection = psycopg2.connect(DATABASE_URL, sslmode='require')
 
     cursor = connection.cursor()
@@ -173,12 +128,6 @@ def search_by_content(pattern):
 
 
 def get_news_count_in_db():
-    # connection = psycopg2.connect(
-    #     user=DB_CONNECTION_CONFIG["user"],
-    #     password=DB_CONNECTION_CONFIG["password"],
-    #     host=DB_CONNECTION_CONFIG["host"],
-    #     port=DB_CONNECTION_CONFIG["port"],
-    #     database=DB_CONNECTION_CONFIG["db_name"])
     connection = psycopg2.connect(DATABASE_URL, sslmode='require')
 
     cursor = connection.cursor()
@@ -193,7 +142,6 @@ def get_news_count_in_db():
     return int(found[0][0])
 
 
-# Needed speed up
 def find(sources=[], categories=[], pattern=""):
     if len(sources) == 0 and len(categories) == 0 and len(pattern) == 0:
         return list()
@@ -220,12 +168,6 @@ def find(sources=[], categories=[], pattern=""):
 
 
 def get_row(index):
-    # connection = psycopg2.connect(
-    #     user=DB_CONNECTION_CONFIG["user"],
-    #     password=DB_CONNECTION_CONFIG["password"],
-    #     host=DB_CONNECTION_CONFIG["host"],
-    #     port=DB_CONNECTION_CONFIG["port"],
-    #     database=DB_CONNECTION_CONFIG["db_name"])
     connection = psycopg2.connect(DATABASE_URL, sslmode='require')
 
     cursor = connection.cursor()
@@ -238,53 +180,3 @@ def get_row(index):
     connection.close()
 
     return list(found)
-
-# # delete_all_news()
-
-# beg = time.time()
-# a = tsnua.parse()
-# #b = ukrnet.parse()
-# end = time.time()
-
-# print("parsing is over...", end=" ")
-# print("estimated " + str(int((end - beg) / 60)) + "min " + str(int((end - beg)) % 60) + "sec")
-
-# source = "tsnua"
-# content = ""
-
-# beg = time.time()
-# for i in a:
-#     category = helper.format_for_db(i[0])
-#     for j in i[1]:
-#         title = helper.format_for_db(j[0])
-#         link = helper.format_for_db(j[1])
-
-#         beg = time.time()
-#         try:
-#             raw_content = tsnua.get_content(link)[1]
-#             #content = helper.format_for_db(raw_content)
-#             content = " "
-#             insert_news((source, category, title, content, link))
-#         except:
-#             pass
-#         end = time.time()
-#         print(end - beg)
-#         exit()
-
-# end = time.time()
-# print("estimated " + str(int((end - beg) / 60)) + "min " + str(int((end - beg)) % 60) + "sec")
-
-# source = "ukrnet"
-# content = ""
-
-# beg = time.time()
-# for i in b:
-#     category = helper.format_for_db(i[0])
-#     for j in i[1]:
-#         title = helper.format_for_db(j[0])
-#         link = helper.format_for_db(j[1])
-#         insert_news((source, category, title, content, link))
-# end = time.time()
-
-# print("estimated " + str(int((end - beg) / 60)) + "min " + str(int((end - beg)) % 60) + "sec")
-# #print(len(a[0][1]))

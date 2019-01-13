@@ -5,48 +5,18 @@ import os
 
 from bs4 import BeautifulSoup
 from selenium import webdriver
-#from selenium.webdriver.firefox.options import Options
 from selenium.webdriver.chrome.options import Options
 
 
-# <<<<< BAD >>>>>
-def write_news_by_category_in_file(news, file_name, source):
-    file_ = open(file_name + ".txt", "w", encoding="utf-8")
-    for i in news:
-        file_.write("# " + i[0] + "\n")
-        file_.write("@ " + i[1] + "\n\n")
-    file_.close()
-
-
-# <<<<< BAD >>>>>
-def write_news_in_file(news, file_name, source):
-    file_ = open(file_name + ".txt", "w", encoding="utf-8")
-    for category in news:
-        for i in category[1]:
-            file_.write("> " + category[0] + "\n")
-            file_.write("# " + i[0] + "\n")
-            file_.write("@ " + i[1] + "\n\n")
-        file_.write("\n\n")
-    file_.close()
-
-
-# PATH_TO_GECKODRIVER = r"C:\Python37\geckodriver.exe"
-# PATH_TO_GECKODRIVER = os.path.join(os.path.dirname(__file__), "geckodriver.exe")
-
-
 def get_html(url, to_scroll=False):
-    # Standard version
-    # browser = webdriver.Firefox()
-
     # Headless version
     options = Options()
-    #options.headless = True
     options.add_argument("--headless")
+    options.add_argument('--no-sandbox')
     options.binary_location = "/app/.apt/usr/bin/google-chrome-stable"
+    
     browser = webdriver.Chrome(chrome_options=options)
-    # options.set_headless(True)
-    # browser = webdriver.Firefox(options=options, executable_path=PATH_TO_GECKODRIVER)
-
+    
     # Get html-code from url
     browser.get(url)
     if to_scroll: 
@@ -59,7 +29,7 @@ def get_html(url, to_scroll=False):
 
 
 def scroll_down(browser):
-    PAUSE_TIME = 1.5
+    PAUSE_TIME = 2
 
     # Get scroll height
     prev_height = browser.execute_script("return document.body.scrollHeight")

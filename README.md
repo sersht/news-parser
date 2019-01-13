@@ -1,6 +1,7 @@
 # News parser
-The script for parsing UKR.NET and TSN.UA resources. 
-Get news from main pages and categories.
+
+## Description
+The script for parsing UKR.NET and TSN.UA resources. Get news from main pages and categories.
 
 Used:
 Python 3.7.2, 
