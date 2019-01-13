@@ -75,8 +75,8 @@ def parse_news_page(category, articles):
             continue
 
         source = "tsnua"
-        title = post_meta_tag.find(name="a").get_text(strip=True)
-        link = news_data_tag.find(name="a")["href"]
+        title = helper.format_for_db(post_meta_tag.find(name="a").get_text(strip=True))
+        link = helper.format_for_db(news_data_tag.find(name="a")["href"])
         # image_url = article.find(name="img")["src"]
 
         # news.append((title, link, image_url))
@@ -85,7 +85,7 @@ def parse_news_page(category, articles):
         try:
             raw_content = get_content(link)[1]
             content = helper.format_for_db(raw_content)
-            db_interactor.insert_news((source, category, title, content, link))
+            db_interactor.insert_news((source, helper.format_for_db(category), title, content, link))
             print(">>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> ADDED NEWS")
         except Exception as e:
             print(e)

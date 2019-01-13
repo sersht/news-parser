@@ -25,9 +25,9 @@ def get_news_from_category(category, parsed_category_page):
         # news_from_category.append(
         #     (news.get_text(strip=True), news["href"]))
         source = "ukrnet"
-        title = news.get_text(strip=True)
-        link = news["href"]
-        db_interactor.insert_news((source, category, title, "", link))
+        title = helper.format_for_db(news.get_text(strip=True))
+        link = helper.format_for_db(news["href"])
+        db_interactor.insert_news((source, helper.format_for_db(category), title, "", link))
 
     # return news_from_category
 
@@ -65,18 +65,18 @@ def get_news_from_main(parsed_main_page):
             for news in subsection.findAll(name="a", attrs={"href": True}):
                 # titles_and_links.append(
                 #     (news.get_text(strip=True), news["href"]))
-                title = news.get_text(strip=True)
-                link = news["href"]
-                db_interactor.insert_news((source, category, title, "", link))
+                title = helper.format_for_db(news.get_text(strip=True))
+                link = helper.format_for_db(news["href"])
+                db_interactor.insert_news((source, helper.format_for_db(category), title, "", link))
 
         # Parse all other sections.
         for subsection in section.findAll(attrs={"class": "feed__item"}):
             for news in subsection.findAll(name="a", attrs={"href": True}):
                 # titles_and_links.append(
                 #     (news.get_text(strip=True), news["href"]))
-                title = news.get_text(strip=True)
-                link = news["href"]
-                db_interactor.insert_news((source, category, title, "", link))
+                title = helper.format_for_db(news.get_text(strip=True))
+                link = helper.format_for_db(news["href"])
+                db_interactor.insert_news((source, helper.format_for_db(category), title, "", link))
 
         # news_from_main.append((category, titles_and_links))
 
