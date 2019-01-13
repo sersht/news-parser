@@ -20,7 +20,7 @@ import tsnua
 #     "db_name": url.path[1:]
 # }
 
-DATABASE_URL = "123"#os.environ['DATABASE_URL']
+DATABASE_URL = os.environ['DATABASE_URL']
 
 def delete_all_news():
     # connection = psycopg2.connect(

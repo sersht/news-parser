@@ -7,11 +7,9 @@ import parsing
 
 
 def timed_job():
-    print("do")
-    # parsing.do()
-
+    parsing.do()
 sched = BackgroundScheduler()
-sched.add_job(func=timed_job, trigger="interval", seconds=5)
+sched.add_job(func=timed_job, trigger="interval", seconds=1)
 sched.start()
 
 

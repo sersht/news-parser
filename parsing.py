@@ -19,8 +19,8 @@ def do():
             link = helper.format_for_db(news[1])
 
             db_interactor.insert_news((source, category, title, content, link))
-    
-    
+    print("PARSING >>>>>>>>>>>>>>>>>>>>>>>>> Finished UKRNET")
+
     source = "tsnua"
     print("PARSING >>>>>>>>>>>>>>>>>>>>>>>>> Begin parsing TSNUA")
     tsnua_news = tsnua.parse()
@@ -38,3 +38,4 @@ def do():
                 insert_news((source, category, title, content, link))
             except:
                 pass
+    print("PARSING >>>>>>>>>>>>>>>>>>>>>>>>> Finished TSNUA")
