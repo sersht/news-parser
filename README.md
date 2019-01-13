@@ -11,3 +11,5 @@ virtualenv,
 Flask,
 PostgreSQL,
 psycopg2.
+
+Sites parser automatically runs on schedule.
