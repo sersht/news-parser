@@ -21,7 +21,7 @@ Short instructions on _Help_ button.
 
 Make sure that you installed all needed programming packages (including from `requirements.txt` and PostgreSQL).    
 
-1. Clone the respository on your computer.  
+1. Clone the repository on your computer.  
 
 2. In `helper.py` 
 
