@@ -16,7 +16,7 @@ _Download image_ button is __implemented and not available in Demo__.
 ### Demo 
 Short instructions on _Help_ button.
 
-### Locally
+### Local setup
 
 ## Limitations
 
