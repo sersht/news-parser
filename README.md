@@ -13,13 +13,16 @@ _Get images_ button allows user to see images from news content.
 _Download image_ button is __implemented and not available in Demo__.
 
 ## How to use
-
+### Demo 
 Short instructions on _Help_ button.
+
+### Locally
 
 ## Limitations
 
-* Due to the free hosting plan and high server load - sometimes queries may not respond.
-* Manually restricted parser area because of holding a little amount of news in a database.
+Due to the free hosting plan and high server load - sometimes queries may not respond.  
+
+Manually restricted parser area because of holding a little amount of news in a database.
 
 ## Technologies
 
