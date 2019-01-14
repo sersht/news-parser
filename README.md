@@ -2,9 +2,13 @@
 
 The script for parsing UKR.NET and TSN.UA resources. Get news from main pages and categories.  
 
+Last version (on GitHub) is adapted for Heroku platform, so have some limitations (see __Limitations__) paragraph.  
+__Examples of general versions can be found in commit history.__  
+
 Sites parser automatically runs on schedule.  
 
-Last version (on GitHub) is adapted for Heroku platform, so have some limitations (see __Limitations__) paragraph.
+_Get images_ button allows user to see images from news content.  
+_Download image_ button is __implemented and not available in Demo__.
 
 ## How to use
 
@@ -12,7 +16,7 @@ Demo is available [here](https://parser-news.herokuapp.com/). Short instructions
 
 ## Limitations
 
-
+Due to the free hosting plan and high server load - sometimes queries may not respond.
 
 ## Technologies
 
