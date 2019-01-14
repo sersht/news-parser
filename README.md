@@ -2,7 +2,7 @@
 
 The script for parsing UKR.NET and TSN.UA resources. Get news from main pages and categories.  
 
-Last version (on GitHub) is adapted for Heroku platform, so have some limitations (see __Limitations__) paragraph.  
+Last version (on GitHub) is adapted for Heroku platform, so have some limitations (see Limitations).  
 __Examples of general versions can be found in commit history.__  
 
 Sites parser automatically runs on schedule.  
