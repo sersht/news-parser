@@ -2,7 +2,7 @@
 
 The script for parsing UKR.NET and TSN.UA resources. Get news from main pages and categories.  
 
-Demo is available [here](https://parser-news.herokuapp.com/). 
+Demo is available [here](https://parser-news.herokuapp.com/) __(currently disabled)__.
 
 Last version (on GitHub) is adapted for Heroku platform, so have some limitations (see __Limitations__).  
 __Examples of general versions can be found in commit history.__  
